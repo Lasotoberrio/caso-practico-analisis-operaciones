@@ -1,0 +1,801 @@
+fecha,tipo_cliente,sucursal,categoria,producto,canal,tipo_trx,valor,comision,reverso,sobre_tope,valor_sobre_tope,fuera_limite,antes_vinculacion,abono_no_validada,reverso_inconsistente
+2023-09-12,CC,Oriente,Cuentas,Suscripción API Pagos,POS,Cargo,3586465,53897,0,1,23897,1,1,0,0
+2024-03-30,NIT,Norte,Pagos,Cuenta Comercial Básica,API,Cargo,1261304,19120,0,0,0,0,1,0,0
+2024-04-29,CE,Sur,POS,Cuenta Cobro Masivo,POS,Cargo,2191208,43924,0,1,33924,0,0,0,0
+2023-10-06,CE,Centro,Cuentas,Pasarela POS,Web,Comision,4656927,93139,0,1,63139,1,1,0,0
+2024-05-07,NIT,Norte,Créditos,Suscripción API Pagos,API,Comision,2820546,28205,0,1,18205,1,1,0,0
+2024-12-07,CC,Centro,Pagos,Cuenta Comercial Básica,API,Comision,2206965,22070,1,1,12070,1,0,0,1
+2023-04-06,NIT,Norte,Cuentas,Cuenta Comercial Básica,API,Cargo,3286828,82371,0,1,52371,1,0,0,1
+2024-01-01,CE,Centro,Créditos,Suscripción API Pagos,POS,Comision,897778,4989,0,0,0,0,0,0,1
+2023-06-07,NIT,Norte,Créditos,Cuenta Cobro Masivo,API,Cargo,1059714,10697,0,0,0,0,1,0,1
+2023-06-11,NIT,Sur,Cuentas,Crédito Pyme,API,Cargo,982152,5111,0,0,0,0,0,0,1
+2024-02-09,NIT,Occidente,Cuentas,Pasarela POS,POS,Comision,4422221,88944,1,1,68944,0,0,0,1
+2023-08-14,CE,Centro,POS,Crédito Pyme,Web,Abono,150771,3215,0,0,0,0,1,0,0
+2024-12-05,CE,Oriente,Cuentas,Cuenta Cobro Masivo,POS,Abono,1564907,23574,0,0,0,0,1,0,0
+2024-06-18,NIT,Norte,Servicios API,Suscripción API Pagos,Web,Cargo,14975,650,1,0,0,1,0,0,0
+2023-10-03,NIT,Sur,Servicios API,TPV Virtual,Web,Abono,266131,1431,1,0,0,0,1,0,1
+2023-03-08,NIT,Sur,Pagos,Crédito Pyme,POS,Comision,1294049,6570,0,0,0,1,1,0,1
+2023-05-25,CE,Sur,POS,Gateway Pagos,Web,Abono,3782641,56840,0,1,46840,1,1,1,0
+2023-06-10,CE,Sur,Pagos,Gateway Pagos,POS,Comision,117297,2446,0,0,0,0,1,0,1
+2024-01-13,CE,Centro,Créditos,Suscripción API Pagos,API,Abono,188667,1443,0,0,0,0,0,1,1
+2024-02-09,CE,Norte,POS,Solución Recaudo,POS,Cargo,1206241,18594,0,0,0,0,0,0,0
+2024-09-18,NIT,Occidente,Créditos,Solución Recaudo,Web,Cargo,4557643,45776,0,1,25776,1,0,0,0
+2024-04-28,CC,Oriente,Pagos,Pasarela POS,POS,Abono,3049103,45837,1,1,35837,0,1,1,1
+2024-02-11,CE,Norte,Cuentas,Solución Recaudo,POS,Cargo,368434,1842,0,0,0,0,0,0,1
+2024-01-11,NIT,Occidente,Pagos,Gateway Pagos,Web,Cargo,2133153,53829,0,1,23829,1,1,0,0
+2023-11-25,CE,Centro,Pagos,Pasarela POS,API,Abono,3132265,62845,0,1,52845,0,0,1,0
+2023-07-18,CC,Norte,Cuentas,Solución Recaudo,Web,Cargo,267948,6799,1,0,0,0,1,0,1
+2023-01-17,CC,Norte,Pagos,Pasarela POS,Web,Abono,4348030,65720,1,1,35720,1,1,0,1
+2024-07-02,NIT,Norte,POS,Suscripción API Pagos,POS,Cargo,4766489,71597,0,1,51597,1,1,0,0
+2023-06-08,CE,Sur,Créditos,Cuenta Comercial Básica,POS,Comision,3034049,61181,0,1,51181,0,1,0,0
+2023-12-19,CE,Centro,Cuentas,Pasarela POS,API,Abono,2722958,40844,0,1,20844,1,1,0,1
+2023-04-11,CC,Oriente,Pagos,Suscripción API Pagos,Web,Cargo,1203763,12238,0,0,0,0,1,0,1
+2024-02-03,NIT,Occidente,Servicios API,Suscripción API Pagos,Web,Cargo,240533,6213,1,0,0,0,1,0,1
+2024-08-19,CE,Occidente,Pagos,Suscripción API Pagos,POS,Cargo,291852,1959,0,0,0,0,0,0,1
+2023-02-18,CC,Occidente,Pagos,Crédito Pyme,Web,Cargo,2269878,22799,1,1,12799,1,1,0,0
+2024-11-25,CC,Sur,Pagos,Solución Recaudo,POS,Comision,4882189,49022,0,1,29022,1,0,0,0
+2023-05-25,CE,Oriente,Cuentas,Cuenta Comercial Básica,Web,Abono,2671375,26714,0,0,0,1,1,1,1
+2024-10-05,NIT,Norte,Servicios API,Cuenta Comercial Básica,API,Abono,4333051,64996,0,1,44996,0,0,1,0
+2024-05-19,CC,Norte,Servicios API,Crédito Pyme,API,Abono,2591869,65297,0,1,45297,1,0,1,1
+2024-02-07,CC,Occidente,POS,Suscripción API Pagos,POS,Cargo,364694,5970,0,0,0,0,1,0,0
+2023-06-12,NIT,Oriente,POS,Cuenta Comercial Básica,Web,Abono,2537299,63632,0,1,43632,0,1,0,1
+2024-12-12,CE,Norte,Pagos,Suscripción API Pagos,API,Comision,2260580,45312,0,1,35312,1,0,0,0
+2023-06-07,CE,Oriente,Créditos,Crédito Pyme,API,Comision,3962234,19811,0,1,9811,0,1,0,1
+2024-11-20,NIT,Occidente,Cuentas,Solución Recaudo,API,Cargo,702630,4013,1,0,0,0,0,0,1
+2024-07-13,CC,Centro,Pagos,Cuenta Comercial Básica,API,Abono,1945994,19460,0,1,9460,0,0,0,0
+2024-01-14,NIT,Norte,Cuentas,Solución Recaudo,Web,Abono,4124485,41245,0,1,31245,0,1,0,1
+2023-06-18,CE,Centro,Servicios API,Suscripción API Pagos,Web,Abono,538506,8578,0,0,0,0,1,1,0
+2024-04-03,CE,Occidente,Cuentas,Pasarela POS,Web,Abono,887446,22386,1,0,0,0,0,1,1
+2023-08-29,CC,Sur,Pagos,Suscripción API Pagos,Web,Abono,4320308,86406,0,1,76406,0,1,1,1
+2024-08-25,NIT,Norte,Servicios API,Crédito Pyme,API,Comision,2141108,21411,1,1,11411,1,0,0,1
+2024-10-20,CC,Norte,POS,TPV Virtual,Web,Cargo,1420263,21804,0,1,1804,1,0,0,0
+2024-04-04,CE,Norte,Pagos,Suscripción API Pagos,Web,Abono,1046545,21031,0,1,11031,0,0,0,0
+2024-10-01,CE,Oriente,Créditos,Pasarela POS,Web,Cargo,3834908,96073,0,1,76073,1,0,0,0
+2023-05-19,CC,Sur,Créditos,Crédito Pyme,API,Comision,1206204,12262,1,1,2262,0,1,0,1
+2023-01-30,CC,Sur,POS,Crédito Pyme,Web,Comision,4269483,64542,0,1,54542,1,1,0,0
+2024-07-23,CC,Occidente,POS,Cuenta Comercial Básica,Web,Comision,1663788,25057,0,1,15057,0,0,0,0
+2023-03-13,NIT,Occidente,Servicios API,Suscripción API Pagos,API,Cargo,2898313,72658,1,1,42658,1,1,0,1
+2023-06-27,NIT,Sur,Cuentas,TPV Virtual,Web,Cargo,3466905,34869,1,1,14869,0,1,0,1
+2023-01-18,CE,Centro,Cuentas,Solución Recaudo,API,Cargo,4360161,87203,1,1,77203,0,1,0,1
+2024-05-04,NIT,Centro,Cuentas,Cuenta Cobro Masivo,Web,Abono,465553,11739,0,1,1739,0,1,1,0
+2024-11-07,CE,Norte,Pagos,Solución Recaudo,Web,Cargo,2233009,55825,0,1,25825,0,0,0,0
+2024-01-25,CC,Occidente,POS,Crédito Pyme,POS,Cargo,451412,6971,0,0,0,0,0,0,0
+2023-05-12,NIT,Oriente,POS,Gateway Pagos,Web,Cargo,3578651,72073,0,1,52073,1,1,0,0
+2024-07-16,NIT,Sur,Pagos,TPV Virtual,API,Abono,4650996,70265,0,1,40265,1,0,1,0
+2024-03-12,CC,Sur,Créditos,Gateway Pagos,POS,Comision,3159042,47486,0,1,27486,1,1,0,0
+2024-03-09,CE,Centro,Cuentas,Pasarela POS,API,Cargo,685159,10477,1,0,0,0,1,0,1
+2023-04-13,CE,Oriente,Cuentas,Cuenta Cobro Masivo,POS,Cargo,741513,3908,0,0,0,0,1,0,0
+2023-03-23,NIT,Norte,Créditos,Gateway Pagos,POS,Cargo,1745319,9227,0,0,0,0,1,0,1
+2023-06-10,CC,Norte,Créditos,Crédito Pyme,API,Cargo,161391,1814,0,0,0,0,0,0,1
+2023-05-08,NIT,Oriente,POS,Cuenta Comercial Básica,Web,Comision,3482494,87262,0,1,67262,0,1,0,0
+2024-02-09,CE,Sur,POS,Gateway Pagos,POS,Abono,511175,8168,1,0,0,0,1,0,1
+2023-08-04,CC,Sur,POS,Crédito Pyme,POS,Cargo,4417242,66459,0,1,56459,0,0,0,0
+2024-10-07,CE,Occidente,Pagos,Cuenta Cobro Masivo,API,Comision,2977774,30278,0,1,278,1,0,0,0
+2024-07-13,NIT,Sur,Cuentas,Solución Recaudo,API,Abono,4862623,97452,1,1,87452,0,1,1,1
+2024-01-25,CE,Sur,Créditos,Solución Recaudo,POS,Cargo,2999909,30099,0,1,99,1,0,0,0
+2024-08-25,CE,Sur,POS,Gateway Pagos,Web,Cargo,2438046,37071,1,1,17071,0,1,0,1
+2023-10-27,CE,Occidente,Cuentas,Pasarela POS,POS,Cargo,1328958,33424,0,1,3424,0,0,0,0
+2023-10-09,CE,Oriente,Servicios API,Solución Recaudo,Web,Abono,688159,3941,1,0,0,0,0,0,1
+2024-01-02,CC,Occidente,Pagos,Cuenta Comercial Básica,Web,Cargo,4905082,98302,0,1,68302,1,0,0,0
+2023-05-29,CC,Occidente,Pagos,Pasarela POS,API,Abono,3778272,94557,0,1,64557,1,1,0,0
+2024-04-17,CC,Oriente,Pagos,Solución Recaudo,Web,Comision,1883282,18833,0,0,0,1,0,0,0
+2024-08-03,CC,Occidente,Servicios API,Pasarela POS,Web,Comision,3905449,19727,1,1,9727,1,0,0,0
+2024-03-07,NIT,Centro,Pagos,TPV Virtual,Web,Comision,3280664,49410,0,1,19410,0,0,0,1
+2024-05-24,CE,Sur,Cuentas,Solución Recaudo,API,Comision,4462426,22312,0,0,0,1,0,0,1
+2023-05-14,CC,Norte,Pagos,Crédito Pyme,POS,Comision,2128053,53301,1,1,33301,1,1,0,1
+2023-11-20,CC,Sur,Créditos,Gateway Pagos,Web,Comision,3984613,99615,0,1,89615,1,0,0,0
+2023-06-27,CC,Occidente,Servicios API,Cuenta Comercial Básica,API,Cargo,3193332,15967,0,1,5967,1,1,0,0
+2024-06-29,CC,Centro,POS,Crédito Pyme,API,Cargo,2517810,38267,0,1,28267,0,0,0,0
+2023-04-25,CE,Norte,Servicios API,Solución Recaudo,Web,Cargo,2254300,33814,1,1,3814,1,1,0,1
+2023-03-16,CC,Norte,POS,Pasarela POS,Web,Comision,972615,19552,0,1,9552,0,1,0,1
+2024-12-17,CC,Oriente,Servicios API,Pasarela POS,POS,Abono,1272712,6464,0,0,0,0,0,0,1
+2024-12-22,CE,Norte,Servicios API,TPV Virtual,POS,Comision,2562949,38944,0,1,18944,1,0,0,0
+2023-11-19,NIT,Centro,POS,Gateway Pagos,POS,Comision,2702695,27127,1,1,7127,1,0,0,1
+2023-04-26,CC,Occidente,POS,Suscripción API Pagos,API,Comision,2890792,43862,0,1,33862,0,1,0,0
+2024-01-24,CE,Occidente,Cuentas,Pasarela POS,POS,Cargo,4089331,102433,0,1,72433,0,0,0,0
+2024-05-09,NIT,Sur,Pagos,TPV Virtual,POS,Cargo,175311,1953,0,0,0,0,0,0,1
+2023-01-21,CE,Centro,Créditos,Solución Recaudo,API,Cargo,3545085,35451,0,1,25451,1,1,0,1
+2024-06-19,NIT,Centro,POS,Pasarela POS,API,Abono,797369,8074,0,0,0,0,0,1,0
+2024-01-08,NIT,Norte,Créditos,Cuenta Cobro Masivo,Web,Cargo,664373,16609,0,1,6609,0,0,0,1
+2023-05-23,CC,Centro,POS,Crédito Pyme,Web,Abono,3011014,45665,1,1,35665,0,1,1,1
+2024-09-09,CC,Centro,Pagos,TPV Virtual,POS,Cargo,4116714,20584,0,1,584,1,0,0,1
+2023-01-01,CC,Occidente,Pagos,Cuenta Comercial Básica,Web,Cargo,4136577,62549,1,1,32549,0,1,0,1
+2023-06-14,NIT,Occidente,Créditos,Cuenta Cobro Masivo,API,Abono,330490,8262,0,0,0,0,1,0,0
+2023-07-10,CC,Oriente,POS,Crédito Pyme,API,Abono,355330,3653,0,0,0,0,0,1,0
+2024-12-16,NIT,Sur,Pagos,Gateway Pagos,Web,Abono,1395864,28017,1,0,0,1,0,0,0
+2023-03-14,NIT,Norte,Cuentas,Cuenta Cobro Masivo,API,Comision,1800355,36007,1,1,16007,0,1,0,0
+2023-09-15,CE,Occidente,Pagos,Solución Recaudo,API,Abono,4575108,114578,0,1,84578,0,1,1,1
+2024-02-11,CE,Sur,Servicios API,Solución Recaudo,API,Abono,3653369,91834,0,1,61834,0,0,1,0
+2023-10-30,NIT,Sur,Servicios API,Pasarela POS,API,Abono,3493464,87337,0,1,57337,0,0,0,0
+2023-06-11,CE,Sur,Cuentas,Solución Recaudo,POS,Abono,2201333,11007,0,0,0,1,1,1,1
+2024-12-26,CC,Norte,Cuentas,Pasarela POS,Web,Cargo,4849204,72738,0,1,62738,1,0,0,0
+2023-03-15,CE,Sur,POS,Suscripción API Pagos,API,Cargo,4546604,91132,0,1,71132,1,1,0,0
+2024-08-07,CC,Occidente,POS,Gateway Pagos,POS,Comision,627407,9511,1,0,0,0,0,0,1
+2023-12-09,NIT,Centro,Créditos,Gateway Pagos,Web,Cargo,2297433,11587,0,0,0,1,0,0,0
+2023-01-16,CC,Centro,Servicios API,Crédito Pyme,API,Abono,2552673,12963,0,1,2963,0,1,0,0
+2024-07-30,NIT,Sur,Servicios API,Suscripción API Pagos,API,Cargo,2095982,52500,0,1,42500,1,0,0,0
+2024-03-31,CE,Centro,POS,Gateway Pagos,API,Comision,3628060,73061,0,1,63061,0,1,0,0
+2023-08-05,CE,Sur,Créditos,TPV Virtual,API,Abono,2780509,69613,0,1,39613,0,0,1,1
+2023-06-26,NIT,Norte,POS,Gateway Pagos,Web,Cargo,2756448,14282,1,1,4282,1,1,0,1
+2023-05-15,CC,Norte,Servicios API,Cuenta Cobro Masivo,POS,Comision,66216,2155,0,0,0,0,1,0,0
+2023-09-07,CE,Norte,Servicios API,Solución Recaudo,POS,Cargo,1722827,25842,0,0,0,1,1,0,1
+2024-03-01,CC,Centro,Cuentas,TPV Virtual,Web,Abono,1240459,18807,0,0,0,1,1,1,0
+2024-01-11,CC,Oriente,POS,Pasarela POS,POS,Abono,4649378,46694,0,1,36694,1,1,0,1
+2023-07-21,CC,Occidente,Pagos,Cuenta Cobro Masivo,POS,Cargo,1927316,9637,0,0,0,0,1,0,0
+2024-11-20,CE,Occidente,Cuentas,Cuenta Comercial Básica,Web,Comision,3114251,31643,1,1,21643,0,0,0,1
+2023-05-18,CC,Occidente,POS,TPV Virtual,POS,Cargo,4044775,20724,0,1,724,0,1,0,0
+2024-05-26,NIT,Norte,Cuentas,Cuenta Cobro Masivo,POS,Cargo,2183494,11417,1,1,1417,1,0,0,0
+2023-12-18,NIT,Norte,Cuentas,TPV Virtual,Web,Cargo,3802329,19512,1,1,9512,1,0,0,0
+2023-09-03,CC,Norte,Servicios API,Crédito Pyme,POS,Cargo,3963400,99585,0,1,79585,1,1,0,1
+2023-01-31,CC,Occidente,Cuentas,Suscripción API Pagos,API,Cargo,4580835,91617,0,1,71617,1,1,0,0
+2023-10-01,CC,Norte,Pagos,Crédito Pyme,POS,Abono,3983367,100084,0,1,80084,1,0,1,0
+2023-03-05,CE,Centro,Créditos,Solución Recaudo,POS,Comision,3291768,32918,0,1,22918,1,1,0,0
+2024-03-11,NIT,Oriente,Cuentas,Solución Recaudo,Web,Cargo,4542257,90845,0,1,80845,1,0,0,1
+2023-09-10,NIT,Norte,Servicios API,Cuenta Cobro Masivo,Web,Abono,1134970,5775,1,0,0,0,1,0,1
+2023-05-13,CE,Norte,Pagos,Gateway Pagos,API,Comision,2489673,62242,1,1,42242,1,0,0,1
+2024-12-24,CC,Sur,POS,Pasarela POS,API,Abono,655990,13620,1,0,0,0,0,1,1
+2024-11-11,CE,Sur,Pagos,TPV Virtual,POS,Comision,247495,2975,0,0,0,0,0,0,0
+2023-08-30,CE,Sur,Servicios API,Cuenta Cobro Masivo,Web,Abono,873399,8834,0,0,0,0,1,0,1
+2024-01-06,CC,Sur,Pagos,Gateway Pagos,Web,Comision,1711762,8759,0,0,0,0,1,0,0
+2024-05-03,NIT,Occidente,Servicios API,TPV Virtual,POS,Cargo,1538098,38652,0,1,18652,0,0,0,0
+2023-06-18,CC,Oriente,POS,TPV Virtual,Web,Abono,3477569,17388,1,0,0,1,1,1,0
+2023-04-29,CE,Centro,POS,Gateway Pagos,API,Cargo,229358,5087,0,0,0,0,1,0,1
+2023-01-08,CE,Sur,Cuentas,Solución Recaudo,POS,Comision,2251244,11256,1,0,0,1,1,0,1
+2024-04-26,NIT,Oriente,POS,Cuenta Comercial Básica,API,Abono,687629,17391,0,0,0,0,0,0,1
+2024-02-28,CC,Sur,Créditos,TPV Virtual,API,Comision,1967961,39859,0,1,29859,1,1,0,1
+2023-11-09,CC,Centro,Servicios API,TPV Virtual,API,Cargo,2875025,43125,1,1,33125,1,1,0,0
+2024-09-11,CE,Norte,Cuentas,Solución Recaudo,API,Cargo,518953,2595,1,0,0,0,0,0,0
+2023-10-21,NIT,Occidente,POS,Suscripción API Pagos,API,Abono,1908126,47803,0,1,37803,0,1,0,0
+2023-12-08,CC,Oriente,Pagos,Solución Recaudo,Web,Cargo,4613567,46636,0,1,16636,0,1,0,1
+2023-07-29,CE,Norte,Créditos,Cuenta Cobro Masivo,POS,Cargo,3280460,82012,0,1,62012,0,1,0,0
+2024-07-19,NIT,Sur,Pagos,TPV Virtual,POS,Comision,4861422,97328,0,1,87328,1,0,0,1
+2023-06-17,CC,Centro,Pagos,Cuenta Cobro Masivo,API,Cargo,2602050,39231,1,1,29231,0,0,0,1
+2023-09-17,NIT,Norte,Servicios API,Cuenta Cobro Masivo,Web,Abono,3048753,30588,0,1,10588,1,1,1,0
+2023-06-24,CC,Sur,POS,Crédito Pyme,API,Comision,3986019,80220,0,1,70220,1,1,0,0
+2024-11-07,CC,Centro,Servicios API,Cuenta Comercial Básica,POS,Comision,4678640,23593,0,1,13593,1,0,0,1
+2023-07-04,CC,Oriente,Créditos,TPV Virtual,API,Comision,738017,4190,0,0,0,0,1,0,0
+2024-06-09,CE,Oriente,Servicios API,TPV Virtual,Web,Cargo,4314906,86298,0,1,76298,1,0,0,0
+2024-05-20,CE,Occidente,Servicios API,Crédito Pyme,POS,Cargo,722565,7226,1,0,0,0,1,0,1
+2023-07-27,CE,Oriente,Cuentas,Cuenta Comercial Básica,Web,Abono,105027,1050,0,0,0,0,1,1,0
+2023-09-21,CC,Sur,POS,Crédito Pyme,API,Abono,1595215,24428,1,1,14428,1,1,1,1
+2023-06-04,CE,Sur,Cuentas,Pasarela POS,Web,Comision,2011714,20317,0,1,10317,1,0,0,0
+2024-01-22,CC,Oriente,Pagos,TPV Virtual,API,Cargo,219003,4880,0,0,0,0,1,0,0
+2024-06-07,CE,Oriente,POS,TPV Virtual,POS,Cargo,2654661,53193,0,1,43193,1,1,0,0
+2024-10-15,NIT,Norte,Servicios API,Suscripción API Pagos,POS,Comision,594641,6146,0,0,0,0,1,0,0
+2023-11-09,CC,Sur,Pagos,Solución Recaudo,API,Comision,4329340,87087,1,1,67087,0,1,0,0
+2023-04-24,CE,Sur,Cuentas,Solución Recaudo,POS,Cargo,3740231,37902,0,1,7902,1,1,0,0
+2023-12-30,CE,Sur,Cuentas,Suscripción API Pagos,API,Cargo,4113352,82267,1,1,52267,1,0,0,1
+2024-05-10,CE,Oriente,Cuentas,Solución Recaudo,API,Cargo,2170833,21908,0,0,0,1,1,0,0
+2023-07-11,CC,Occidente,Pagos,Cuenta Comercial Básica,POS,Abono,475765,9715,1,0,0,0,1,0,1
+2023-03-18,NIT,Norte,Servicios API,Cuenta Cobro Masivo,POS,Comision,1235502,6278,0,0,0,0,1,0,0
+2023-06-24,CC,Norte,POS,Pasarela POS,POS,Comision,1364871,27397,0,1,17397,0,1,0,0
+2024-08-27,NIT,Norte,Créditos,Cuenta Cobro Masivo,POS,Comision,1760365,17704,1,0,0,0,0,0,0
+2023-10-23,CE,Sur,Pagos,Gateway Pagos,Web,Abono,1450789,15008,1,0,0,0,1,0,1
+2024-02-13,NIT,Norte,Servicios API,Pasarela POS,Web,Cargo,3851092,38511,0,1,28511,1,1,0,0
+2023-04-19,NIT,Norte,Créditos,Pasarela POS,Web,Abono,3601299,72026,1,1,52026,1,0,1,1
+2024-03-24,CE,Sur,POS,TPV Virtual,API,Abono,810815,16716,0,0,0,0,0,0,0
+2023-05-15,CC,Occidente,Servicios API,Cuenta Comercial Básica,Web,Cargo,1889771,9449,0,0,0,0,1,0,1
+2024-09-15,NIT,Centro,Créditos,Solución Recaudo,Web,Abono,3423987,68580,1,1,38580,1,0,1,1
+2023-10-22,CE,Oriente,Cuentas,Cuenta Cobro Masivo,Web,Cargo,4646549,69698,0,1,39698,1,1,0,0
+2024-07-21,NIT,Occidente,POS,Crédito Pyme,POS,Abono,1841849,18518,0,0,0,0,1,1,0
+2023-08-24,CE,Oriente,Servicios API,Cuenta Cobro Masivo,API,Cargo,1782679,26940,1,1,6940,1,1,0,0
+2023-05-08,CE,Sur,Servicios API,Solución Recaudo,POS,Comision,2372697,36090,0,1,6090,0,1,0,0
+2023-07-05,NIT,Sur,Servicios API,Pasarela POS,POS,Comision,2823061,70577,0,1,40577,0,0,0,0
+2024-08-25,CC,Oriente,Pagos,Solución Recaudo,API,Cargo,3048347,61067,1,1,41067,1,0,0,1
+2023-04-08,CE,Sur,Créditos,Solución Recaudo,Web,Abono,3096647,31066,1,1,1066,1,1,1,0
+2024-06-14,CE,Occidente,Servicios API,Pasarela POS,Web,Cargo,4100188,103005,0,1,73005,1,0,0,0
+2023-12-03,NIT,Centro,Servicios API,Crédito Pyme,Web,Comision,149395,1994,0,0,0,0,1,0,1
+2023-01-24,CE,Oriente,Pagos,Crédito Pyme,API,Cargo,2801810,14009,0,0,0,1,1,0,0
+2024-11-15,NIT,Centro,Cuentas,Cuenta Cobro Masivo,POS,Cargo,4264304,85786,0,1,75786,1,0,0,0
+2023-02-13,NIT,Norte,Servicios API,Solución Recaudo,API,Cargo,1896194,38124,0,1,8124,0,1,0,0
+2024-10-03,CC,Centro,Créditos,Gateway Pagos,Web,Abono,4304010,86080,1,1,76080,0,0,0,0
+2024-06-04,NIT,Norte,POS,Pasarela POS,API,Abono,886269,18225,1,0,0,0,0,1,0
+2023-12-09,CC,Sur,POS,Crédito Pyme,POS,Cargo,42355,1059,0,0,0,1,0,0,0
+2023-08-05,CE,Norte,POS,Gateway Pagos,Web,Cargo,2848769,42732,0,1,12732,1,1,0,1
+2023-05-20,CC,Sur,Servicios API,TPV Virtual,Web,Abono,3878523,38885,1,1,8885,1,1,0,1
+2023-08-28,CC,Occidente,Pagos,Solución Recaudo,API,Abono,965814,9658,1,0,0,0,1,0,1
+2023-03-29,CC,Oriente,Servicios API,Solución Recaudo,POS,Comision,1361285,20419,1,1,10419,1,1,0,0
+2023-10-11,CC,Norte,Créditos,Solución Recaudo,API,Abono,391565,9789,0,0,0,0,1,1,0
+2023-07-17,NIT,Centro,POS,Suscripción API Pagos,POS,Cargo,3895401,58631,0,1,38631,1,1,0,0
+2024-04-21,CC,Occidente,Créditos,Cuenta Cobro Masivo,POS,Abono,448287,9466,0,0,0,0,0,1,0
+2024-05-22,NIT,Sur,Pagos,Suscripción API Pagos,POS,Comision,836752,8868,1,0,0,0,0,0,0
+2024-01-05,CE,Norte,Cuentas,Pasarela POS,POS,Comision,86071,2652,1,0,0,0,1,0,0
+2024-04-26,CC,Sur,Pagos,Solución Recaudo,API,Comision,2700709,27207,0,1,7207,1,0,0,0
+2024-12-20,NIT,Centro,Cuentas,Cuenta Cobro Masivo,POS,Abono,4995637,24978,0,1,14978,1,0,1,1
+2024-05-17,CC,Norte,POS,Pasarela POS,POS,Cargo,1965798,39416,1,1,29416,0,1,0,1
+2024-08-10,NIT,Oriente,Cuentas,Cuenta Cobro Masivo,API,Comision,742774,7928,0,0,0,0,0,0,0
+2023-09-03,CE,Occidente,Servicios API,Pasarela POS,Web,Comision,4774770,119869,0,1,89869,1,0,0,0
+2024-02-02,CE,Occidente,Pagos,Solución Recaudo,Web,Abono,1225474,30837,0,1,837,0,0,1,0
+2024-06-19,CE,Norte,POS,Solución Recaudo,API,Cargo,946374,9564,0,0,0,0,0,0,0
+2024-08-18,CC,Sur,Cuentas,Solución Recaudo,API,Comision,3850185,19351,1,0,0,1,0,0,1
+2023-02-04,NIT,Oriente,Servicios API,Solución Recaudo,API,Abono,799687,4198,0,0,0,0,1,1,0
+2024-12-04,CC,Occidente,Cuentas,Crédito Pyme,POS,Abono,3008474,60369,1,1,30369,1,0,1,0
+2023-05-11,CE,Occidente,Pagos,Cuenta Cobro Masivo,POS,Abono,1122717,11727,0,0,0,0,1,1,1
+2024-01-28,CE,Norte,Servicios API,TPV Virtual,POS,Cargo,1298105,19972,0,0,0,1,0,0,0
+2024-04-08,CE,Oriente,POS,Pasarela POS,POS,Cargo,4782007,95840,1,1,85840,0,0,0,1
+2024-01-06,CC,Centro,Servicios API,Solución Recaudo,POS,Abono,4058663,101667,0,1,81667,1,1,1,0
+2023-06-17,CC,Norte,Cuentas,Suscripción API Pagos,Web,Comision,3062683,61454,1,1,31454,0,1,0,1
+2023-03-08,CE,Norte,POS,Pasarela POS,API,Cargo,909542,9095,0,0,0,0,1,0,1
+2024-09-17,CE,Occidente,Créditos,Cuenta Comercial Básica,POS,Cargo,313347,8034,1,0,0,0,1,0,1
+2023-11-01,CC,Centro,Pagos,Cuenta Comercial Básica,Web,Comision,3788594,95215,0,1,85215,0,0,0,0
+2024-01-09,CC,Sur,Pagos,Gateway Pagos,POS,Comision,4336274,65044,0,1,55044,0,0,0,0
+2024-07-19,CC,Oriente,Pagos,Solución Recaudo,POS,Abono,2406128,36092,0,1,26092,1,0,0,1
+2024-11-20,CE,Sur,Cuentas,Solución Recaudo,POS,Cargo,1067223,11172,0,0,0,1,0,0,0
+2024-11-13,CE,Sur,Pagos,Cuenta Cobro Masivo,Web,Comision,3743090,74862,1,1,44862,1,0,0,1
+2024-01-08,NIT,Oriente,Pagos,TPV Virtual,API,Cargo,1443503,29370,0,1,19370,0,0,0,0
+2023-05-31,CE,Centro,Créditos,Suscripción API Pagos,POS,Cargo,3339065,33491,0,1,23491,1,1,0,0
+2023-06-09,CC,Sur,Créditos,Solución Recaudo,API,Cargo,684942,17324,0,1,7324,0,1,0,1
+2024-11-18,CC,Centro,POS,Crédito Pyme,API,Abono,2343351,35650,1,1,25650,0,0,1,0
+2024-05-07,CE,Norte,Créditos,Pasarela POS,POS,Comision,4233534,105838,0,1,85838,1,0,0,0
+2023-07-10,CE,Centro,Cuentas,Pasarela POS,Web,Cargo,4298474,85969,0,1,55969,1,1,0,0
+2024-09-13,NIT,Occidente,Créditos,Crédito Pyme,API,Abono,3901080,58516,0,1,48516,1,0,0,1
+2024-03-15,CE,Centro,Créditos,Suscripción API Pagos,Web,Abono,1274201,25684,0,1,15684,1,0,0,0
+2023-07-31,NIT,Oriente,Servicios API,Suscripción API Pagos,API,Abono,3034130,45512,0,1,35512,1,1,0,0
+2024-01-19,CC,Oriente,Servicios API,Pasarela POS,Web,Comision,3973772,19969,1,0,0,1,1,0,1
+2023-03-24,CE,Norte,Servicios API,Solución Recaudo,API,Cargo,1269772,19047,0,0,0,1,1,0,0
+2024-02-12,NIT,Sur,Cuentas,Solución Recaudo,Web,Cargo,2310625,46412,0,1,36412,0,1,0,0
+2023-05-09,NIT,Norte,Pagos,Cuenta Cobro Masivo,Web,Comision,3744844,93621,0,1,83621,1,1,0,1
+2023-06-23,NIT,Occidente,Pagos,Gateway Pagos,POS,Abono,4410701,110468,1,1,100468,0,1,0,0
+2023-01-07,NIT,Centro,Servicios API,Cuenta Cobro Masivo,API,Cargo,4946564,98931,1,1,88931,1,1,0,1
+2023-07-17,CE,Oriente,Cuentas,Cuenta Comercial Básica,API,Comision,1153227,11532,0,0,0,1,1,0,1
+2023-05-01,CC,Centro,POS,Cuenta Cobro Masivo,Web,Abono,3204945,48274,0,1,28274,1,0,1,1
+2023-05-12,NIT,Sur,POS,TPV Virtual,API,Comision,2129191,53730,1,1,43730,1,1,0,1
+2023-06-20,CC,Sur,Pagos,Cuenta Cobro Masivo,POS,Cargo,1498264,37657,1,1,7657,1,1,0,1
+2023-06-07,NIT,Occidente,Créditos,Gateway Pagos,POS,Cargo,1513253,37831,0,1,17831,1,1,0,0
+2023-04-08,CE,Oriente,Pagos,Crédito Pyme,API,Abono,3676469,18382,0,0,0,1,1,0,0
+2024-05-08,CC,Norte,Cuentas,Cuenta Comercial Básica,API,Cargo,2777690,42165,0,1,22165,1,0,0,0
+2023-06-26,CE,Sur,Cuentas,Solución Recaudo,Web,Abono,2849088,42836,0,1,12836,1,1,0,0
+2023-02-23,CC,Oriente,Créditos,TPV Virtual,Web,Comision,1098810,27970,0,1,7970,0,1,0,0
+2024-03-05,CE,Sur,POS,Gateway Pagos,Web,Abono,4351672,65775,0,1,35775,1,1,0,0
+2024-03-11,CE,Oriente,Servicios API,Cuenta Comercial Básica,Web,Abono,3563044,18315,0,0,0,1,0,1,0
+2024-11-05,CC,Occidente,Pagos,Cuenta Comercial Básica,POS,Cargo,4094128,20471,1,1,10471,1,0,0,0
+2023-11-03,CE,Norte,Créditos,Cuenta Cobro Masivo,POS,Abono,3904743,97619,0,1,77619,0,1,0,0
+2023-05-21,CC,Centro,Pagos,Cuenta Cobro Masivo,POS,Comision,1695179,25628,0,1,15628,0,0,0,0
+2024-08-18,CE,Norte,Cuentas,Solución Recaudo,Web,Comision,1310358,6552,0,0,0,0,0,0,1
+2023-05-15,CC,Sur,Servicios API,Gateway Pagos,POS,Comision,3732978,55995,0,1,25995,0,1,0,0
+2023-01-21,CE,Oriente,Servicios API,TPV Virtual,Web,Cargo,1057159,21143,1,1,11143,0,1,0,0
+2024-03-06,CC,Occidente,POS,Cuenta Cobro Masivo,Web,Abono,3381588,17108,0,0,0,1,1,1,0
+2023-01-25,CC,Centro,Servicios API,Cuenta Cobro Masivo,Web,Abono,3239911,49099,1,1,19099,0,1,1,1
+2024-08-14,NIT,Centro,POS,Pasarela POS,POS,Cargo,2453200,24632,0,1,14632,1,0,0,0
+2024-09-17,NIT,Occidente,POS,Crédito Pyme,Web,Cargo,4788249,47982,0,1,17982,1,1,0,0
+2024-09-23,CC,Oriente,Pagos,Gateway Pagos,API,Abono,3293786,16469,0,0,0,1,0,1,0
+2024-10-11,NIT,Oriente,POS,Cuenta Cobro Masivo,Web,Comision,4254719,85094,0,1,65094,1,0,0,0
+2024-10-07,CE,Occidente,POS,Crédito Pyme,API,Abono,751963,11779,0,0,0,0,0,1,0
+2023-05-31,NIT,Sur,Cuentas,Suscripción API Pagos,API,Comision,3427429,68749,0,1,48749,1,1,0,0
+2023-02-28,NIT,Sur,POS,Cuenta Comercial Básica,API,Comision,1266156,31654,1,1,11654,0,1,0,1
+2024-02-22,CC,Occidente,POS,TPV Virtual,API,Comision,294935,6099,0,0,0,0,0,0,1
+2023-12-30,CE,Oriente,POS,Crédito Pyme,API,Abono,4135518,41855,0,1,31855,0,1,1,0
+2023-06-05,NIT,Norte,Servicios API,Cuenta Cobro Masivo,API,Comision,1552749,7864,0,0,0,0,1,0,0
+2024-01-29,NIT,Sur,Pagos,Crédito Pyme,Web,Comision,3286864,32869,0,1,2869,1,0,0,0
+2024-04-06,NIT,Norte,Créditos,Suscripción API Pagos,Web,Comision,4065679,40657,0,1,30657,1,1,0,0
+2023-11-01,NIT,Norte,Créditos,Suscripción API Pagos,Web,Comision,1134917,28373,1,0,0,1,0,0,1
+2023-02-03,CC,Sur,Pagos,Pasarela POS,Web,Abono,3105803,62616,0,1,52616,1,1,0,0
+2024-07-26,NIT,Oriente,Cuentas,Cuenta Comercial Básica,POS,Abono,2670207,53504,0,1,23504,0,0,1,0
+2023-06-06,CE,Occidente,Pagos,Suscripción API Pagos,POS,Cargo,3283586,16918,0,1,6918,1,1,0,1
+2023-08-20,NIT,Norte,POS,Cuenta Comercial Básica,API,Comision,992182,4961,0,0,0,0,1,0,1
+2024-05-20,NIT,Norte,Cuentas,Solución Recaudo,POS,Abono,2068281,20683,1,1,10683,0,0,0,1
+2024-07-05,NIT,Norte,Créditos,Pasarela POS,POS,Comision,3710196,74204,0,1,54204,1,0,0,1
+2024-10-24,CE,Occidente,POS,Pasarela POS,API,Cargo,4972311,49823,1,1,29823,0,0,0,1
+2024-06-10,CC,Centro,Créditos,Gateway Pagos,Web,Cargo,3040794,60816,1,1,50816,0,1,0,0
+2024-09-11,CE,Sur,POS,Suscripción API Pagos,Web,Comision,2415357,48507,1,1,28507,1,0,0,1
+2023-03-22,CC,Oriente,Pagos,Crédito Pyme,Web,Abono,1205603,18584,0,0,0,1,1,1,0
+2024-11-25,CE,Oriente,Servicios API,Crédito Pyme,POS,Cargo,4592751,68891,0,1,48891,1,0,0,0
+2024-02-22,NIT,Oriente,Pagos,TPV Virtual,POS,Comision,1506733,7634,0,0,0,1,0,0,0
+2024-02-10,CE,Occidente,Créditos,Cuenta Comercial Básica,API,Comision,604294,9264,1,0,0,0,1,0,1
+2024-12-06,CE,Oriente,Cuentas,Solución Recaudo,POS,Comision,3583323,71866,0,1,61866,1,0,0,1
+2023-11-23,CC,Oriente,POS,Pasarela POS,POS,Comision,1947059,19671,1,1,9671,1,1,0,1
+2023-05-07,CC,Norte,Cuentas,Pasarela POS,API,Abono,153386,2501,0,0,0,0,1,1,0
+2023-03-14,CE,Centro,Servicios API,Suscripción API Pagos,POS,Comision,2200749,33511,0,1,23511,0,1,0,0
+2023-08-07,NIT,Oriente,POS,Gateway Pagos,POS,Comision,4662097,116752,1,1,96752,0,1,0,0
+2023-11-27,NIT,Centro,Cuentas,Cuenta Cobro Masivo,Web,Comision,3470631,17353,0,1,7353,1,1,0,0
+2023-09-05,CE,Occidente,Créditos,Suscripción API Pagos,API,Abono,200551,4011,1,0,0,0,1,1,1
+2024-03-25,NIT,Norte,Cuentas,Cuenta Comercial Básica,API,Cargo,1257560,31639,1,1,1639,0,0,0,1
+2024-09-14,CE,Norte,Servicios API,Crédito Pyme,API,Abono,2182651,43653,1,1,33653,1,0,1,1
+2023-07-08,CE,Centro,Cuentas,Cuenta Cobro Masivo,API,Cargo,4774753,95995,1,1,65995,1,1,0,0
+2024-09-30,NIT,Oriente,Servicios API,Suscripción API Pagos,API,Cargo,3377312,16887,0,0,0,1,0,0,0
+2023-09-08,CC,Occidente,Pagos,Solución Recaudo,Web,Comision,355798,3558,0,0,0,0,1,0,1
+2024-09-04,CE,Norte,POS,Gateway Pagos,API,Comision,1038478,25962,0,0,0,0,0,0,1
+2023-12-04,CC,Centro,Cuentas,Cuenta Cobro Masivo,Web,Cargo,688216,17405,0,0,0,0,1,0,0
+2023-03-07,NIT,Occidente,Créditos,Gateway Pagos,API,Abono,337895,8447,0,0,0,0,1,0,0
+2023-01-26,CC,Sur,Pagos,Solución Recaudo,API,Comision,4290542,107364,0,1,97364,1,1,0,1
+2023-11-27,CE,Oriente,Servicios API,Suscripción API Pagos,POS,Abono,4442449,88849,0,1,78849,1,1,0,1
+2024-11-30,CE,Centro,Pagos,Gateway Pagos,API,Comision,2362075,35531,0,1,5531,0,0,0,0
+2023-03-07,CE,Sur,Pagos,Cuenta Cobro Masivo,Web,Cargo,227066,4541,0,0,0,0,1,0,0
+2024-08-20,CE,Oriente,Servicios API,Cuenta Cobro Masivo,Web,Cargo,2776638,41850,0,1,21850,1,0,0,1
+2024-06-05,CE,Sur,POS,Crédito Pyme,Web,Cargo,3289648,33396,0,1,13396,0,1,0,0
+2024-06-17,CE,Sur,Créditos,Solución Recaudo,Web,Comision,2184495,21945,0,1,11945,0,0,0,0
+2024-05-27,CE,Centro,Cuentas,Cuenta Comercial Básica,Web,Comision,3832499,38825,1,1,28825,0,0,0,1
+2023-04-12,CC,Oriente,Pagos,Cuenta Comercial Básica,API,Comision,4616691,69350,0,1,39350,1,0,0,0
+2023-06-06,CC,Norte,Pagos,Cuenta Cobro Masivo,POS,Abono,3396869,84922,0,1,74922,1,1,1,0
+2024-04-02,CC,Centro,Servicios API,Suscripción API Pagos,API,Comision,2704394,27544,0,1,17544,0,1,0,0
+2023-06-21,CC,Sur,Créditos,Solución Recaudo,API,Cargo,1189739,30243,1,1,10243,0,1,0,1
+2024-08-03,NIT,Sur,Pagos,TPV Virtual,API,Abono,1940732,29611,1,0,0,1,0,1,1
+2023-10-09,CC,Oriente,Créditos,Crédito Pyme,API,Abono,2555651,25757,1,0,0,1,0,0,1
+2023-04-13,CC,Occidente,Créditos,Crédito Pyme,Web,Comision,3377834,51168,0,1,31168,1,1,0,1
+2023-11-12,CC,Oriente,Servicios API,Crédito Pyme,Web,Abono,570040,9051,1,0,0,0,0,1,1
+2024-10-16,CE,Occidente,Pagos,Cuenta Cobro Masivo,POS,Abono,3628421,36784,0,1,6784,1,0,1,0
+2024-08-19,NIT,Oriente,Cuentas,Crédito Pyme,POS,Comision,1042678,21054,0,1,11054,1,0,0,0
+2024-01-20,CE,Centro,Créditos,TPV Virtual,API,Abono,3973751,60106,0,1,40106,0,0,0,1
+2024-09-16,CE,Norte,Servicios API,TPV Virtual,Web,Abono,4456310,66845,0,1,56845,0,0,1,1
+2023-01-27,CC,Centro,Créditos,Cuenta Comercial Básica,Web,Cargo,2124337,10822,0,0,0,0,1,0,0
+2023-05-07,CC,Centro,POS,Suscripción API Pagos,API,Cargo,673002,3565,0,0,0,0,1,0,0
+2024-05-14,CE,Oriente,Pagos,Crédito Pyme,POS,Cargo,3084290,15421,0,0,0,1,0,0,0
+2024-07-16,NIT,Centro,POS,Pasarela POS,POS,Abono,1780719,35714,0,1,25714,1,0,0,0
+2023-07-03,CC,Centro,Pagos,TPV Virtual,Web,Abono,2406075,12030,0,0,0,1,0,0,0
+2024-12-04,NIT,Occidente,Pagos,Cuenta Cobro Masivo,Web,Cargo,318575,6872,0,0,0,0,0,0,0
+2023-03-03,CE,Norte,POS,Suscripción API Pagos,Web,Cargo,3156905,31769,0,1,1769,1,1,0,0
+2024-02-21,CE,Sur,Cuentas,Solución Recaudo,API,Cargo,3533937,70679,0,1,50679,1,1,0,0
+2024-11-22,CC,Occidente,POS,Pasarela POS,POS,Comision,2944528,29445,1,1,9445,0,0,0,0
+2024-08-24,CC,Norte,Pagos,Crédito Pyme,API,Cargo,1280874,32122,1,1,12122,1,0,0,1
+2024-09-04,CC,Oriente,Pagos,TPV Virtual,POS,Abono,3965463,79809,0,1,59809,0,0,0,0
+2024-10-02,CC,Oriente,Servicios API,Solución Recaudo,API,Cargo,4986397,25132,0,1,5132,1,0,0,0
+2024-03-02,CC,Sur,Servicios API,Suscripción API Pagos,Web,Abono,4619096,92482,1,1,62482,1,0,0,0
+2023-06-07,CC,Sur,Servicios API,Solución Recaudo,Web,Comision,3489513,87738,0,1,67738,1,1,0,0
+2024-02-27,CC,Centro,Servicios API,TPV Virtual,API,Abono,481811,9736,0,0,0,0,0,0,0
+2023-05-14,CE,Oriente,Créditos,Pasarela POS,Web,Comision,96476,2612,0,0,0,0,0,0,1
+2023-07-08,CE,Occidente,Pagos,Suscripción API Pagos,Web,Cargo,2989642,15448,1,1,5448,1,1,0,1
+2024-10-19,CE,Norte,POS,Cuenta Comercial Básica,API,Cargo,3000812,15104,0,0,0,1,0,0,0
+2023-07-19,CE,Norte,Servicios API,Solución Recaudo,API,Cargo,1407953,7540,0,0,0,0,0,0,1
+2024-02-15,NIT,Norte,Créditos,Suscripción API Pagos,API,Cargo,753460,8035,1,0,0,0,0,0,0
+2023-05-05,NIT,Norte,Cuentas,Cuenta Cobro Masivo,API,Comision,2390799,47816,0,1,27816,1,1,0,0
+2023-04-29,NIT,Centro,Pagos,Gateway Pagos,POS,Cargo,4853277,97166,1,1,87166,1,1,0,1
+2024-03-22,CC,Norte,Cuentas,Solución Recaudo,Web,Abono,3073716,76843,0,1,46843,1,1,1,0
+2023-08-12,CC,Oriente,Servicios API,Crédito Pyme,API,Cargo,3788542,57328,0,1,37328,1,0,0,0
+2024-03-12,CC,Occidente,Créditos,Cuenta Cobro Masivo,POS,Abono,2257637,45653,0,1,35653,1,0,1,1
+2024-02-18,NIT,Centro,Cuentas,Cuenta Cobro Masivo,Web,Abono,557047,14026,0,1,4026,0,1,1,0
+2024-10-15,CC,Centro,Cuentas,Crédito Pyme,API,Cargo,2508009,12640,0,1,2640,1,0,0,0
+2023-06-09,CC,Oriente,Pagos,Cuenta Comercial Básica,POS,Cargo,1141637,17225,1,0,0,0,0,0,1
+2024-10-20,CE,Occidente,Pagos,TPV Virtual,API,Cargo,2994376,30144,1,1,10144,0,0,0,1
+2023-11-05,CC,Sur,Pagos,Pasarela POS,API,Abono,1439897,29298,0,1,19298,0,1,0,0
+2024-11-20,NIT,Sur,Pagos,Crédito Pyme,POS,Cargo,4110275,103257,0,1,83257,1,1,0,0
+2023-07-11,NIT,Norte,POS,Cuenta Cobro Masivo,POS,Cargo,1886934,47173,0,1,17173,0,0,0,1
+2024-02-29,CE,Sur,Créditos,TPV Virtual,POS,Comision,1992943,20129,0,1,10129,0,1,0,0
+2024-11-22,CC,Sur,Créditos,Cuenta Comercial Básica,API,Comision,1655639,16756,0,0,0,0,0,0,0
+2023-01-16,CE,Norte,Pagos,TPV Virtual,API,Cargo,4654656,69820,0,1,59820,1,1,0,0
+2023-06-11,CE,Sur,Servicios API,Cuenta Cobro Masivo,Web,Abono,3422801,34328,1,1,4328,0,1,0,0
+2023-05-05,NIT,Sur,Créditos,Cuenta Cobro Masivo,Web,Cargo,2882695,57854,0,1,27854,1,1,0,1
+2023-04-12,CC,Oriente,Pagos,Suscripción API Pagos,API,Cargo,3635743,36557,0,1,6557,1,1,0,0
+2024-04-21,CC,Oriente,Pagos,TPV Virtual,Web,Abono,979863,9999,0,0,0,0,0,1,0
+2023-03-10,CE,Centro,POS,Crédito Pyme,POS,Cargo,780242,4101,0,0,0,0,1,0,0
+2023-09-09,NIT,Norte,Servicios API,Suscripción API Pagos,POS,Comision,1838804,18888,1,0,0,0,1,0,1
+2024-08-06,CC,Occidente,Pagos,Crédito Pyme,Web,Abono,1900567,19106,1,1,9106,1,0,1,1
+2024-06-20,NIT,Centro,Créditos,Crédito Pyme,API,Abono,4329127,108228,0,1,78228,1,0,0,0
+2023-11-18,CE,Norte,POS,Gateway Pagos,API,Abono,4152474,104012,0,1,74012,0,1,0,0
+2023-05-27,NIT,Oriente,Cuentas,Suscripción API Pagos,API,Comision,2204807,33272,1,1,13272,1,0,0,0
+2023-10-27,CC,Centro,POS,Crédito Pyme,POS,Abono,4289990,64850,1,1,54850,0,0,1,1
+2023-09-06,NIT,Sur,Servicios API,Pasarela POS,API,Comision,2226890,55672,1,1,25672,0,0,0,1
+2023-01-28,CE,Centro,Pagos,Cuenta Cobro Masivo,Web,Abono,4245727,21729,0,1,1729,1,1,0,0
+2023-01-09,CE,Sur,Créditos,Cuenta Comercial Básica,POS,Comision,3576246,72025,0,1,62025,0,1,0,0
+2023-04-21,CC,Centro,Créditos,Solución Recaudo,API,Comision,3669008,18345,0,0,0,0,1,0,0
+2024-12-04,NIT,Oriente,Pagos,Crédito Pyme,POS,Comision,3196169,32162,1,1,2162,1,0,0,0
+2024-04-18,CC,Centro,Pagos,Cuenta Comercial Básica,Web,Abono,2122042,21220,1,1,11220,1,0,0,1
+2024-02-28,CE,Oriente,Servicios API,Crédito Pyme,Web,Comision,1739540,26093,0,1,6093,1,1,0,0
+2023-06-13,CE,Sur,POS,Gateway Pagos,API,Abono,2139357,32190,0,1,22190,1,1,1,0
+2024-08-29,CC,Centro,Cuentas,Cuenta Comercial Básica,API,Abono,533370,2667,1,0,0,0,0,1,0
+2024-05-10,CE,Norte,POS,TPV Virtual,API,Comision,4607787,69617,0,1,49617,1,0,0,0
+2024-05-15,CE,Oriente,POS,Cuenta Cobro Masivo,Web,Comision,4516552,68248,0,1,58248,1,1,0,0
+2023-02-11,CE,Sur,Pagos,Crédito Pyme,POS,Abono,4724937,24125,1,0,0,0,1,1,1
+2024-09-30,NIT,Sur,Pagos,Crédito Pyme,API,Cargo,4539457,68192,0,1,58192,1,1,0,0
+2024-07-27,CC,Occidente,POS,Crédito Pyme,API,Comision,1035873,15738,0,0,0,1,0,0,0
+2023-10-18,CC,Occidente,POS,Cuenta Comercial Básica,Web,Comision,710793,3754,0,0,0,0,1,0,1
+2024-07-13,CE,Sur,POS,TPV Virtual,Web,Cargo,2478041,50061,0,1,20061,0,0,0,0
+2024-09-04,CC,Oriente,Servicios API,Suscripción API Pagos,API,Comision,570676,14367,0,0,0,0,0,0,0
+2024-09-28,NIT,Occidente,Pagos,Gateway Pagos,Web,Cargo,2559713,51694,0,1,21694,1,0,0,0
+2023-01-04,CE,Centro,Cuentas,Crédito Pyme,Web,Comision,2163819,21638,0,0,0,1,1,0,0
+2024-02-22,CC,Oriente,Pagos,Solución Recaudo,API,Cargo,3291352,33414,0,1,3414,0,1,0,1
+2024-02-16,CE,Occidente,Pagos,TPV Virtual,Web,Cargo,4748062,47681,0,1,27681,0,0,0,0
+2023-05-19,CC,Norte,Cuentas,Crédito Pyme,API,Comision,1847418,46285,0,1,26285,1,1,0,1
+2024-05-09,CC,Oriente,Cuentas,Pasarela POS,POS,Abono,402314,4523,0,0,0,0,1,0,0
+2024-07-28,NIT,Occidente,POS,Gateway Pagos,Web,Abono,3168467,63369,1,1,43369,0,0,0,0
+2023-06-15,CE,Occidente,Pagos,Cuenta Cobro Masivo,Web,Cargo,4702160,47022,0,1,17022,0,0,0,1
+2024-12-15,NIT,Norte,POS,Suscripción API Pagos,API,Abono,1279305,26086,0,1,16086,0,0,0,1
+2023-12-29,CE,Centro,Servicios API,Suscripción API Pagos,POS,Abono,3150275,47754,0,1,37754,0,1,1,0
+2023-01-05,NIT,Norte,Cuentas,Gateway Pagos,API,Comision,2153687,54042,0,1,24042,1,1,0,0
+2024-02-15,CE,Occidente,Cuentas,Solución Recaudo,POS,Abono,1137155,17157,0,0,0,0,0,0,0
+2024-03-07,CC,Oriente,Pagos,TPV Virtual,API,Comision,471972,9939,1,0,0,0,1,0,1
+2023-03-22,CC,Norte,Pagos,Solución Recaudo,POS,Cargo,2757252,27673,0,0,0,1,1,0,0
+2023-12-17,CC,Centro,Créditos,Crédito Pyme,Web,Abono,1720756,17208,1,0,0,0,0,0,1
+2023-09-11,CC,Occidente,Créditos,TPV Virtual,POS,Comision,834764,8848,0,0,0,0,0,0,0
+2024-08-07,CE,Oriente,Cuentas,Solución Recaudo,Web,Cargo,1554513,15745,0,0,0,0,0,0,0
+2023-06-27,NIT,Sur,Pagos,Suscripción API Pagos,POS,Comision,762116,15442,1,1,5442,0,1,0,1
+2024-04-27,NIT,Norte,Créditos,Cuenta Cobro Masivo,API,Cargo,2607165,65179,0,1,55179,1,0,0,1
+2024-05-10,CE,Oriente,POS,Cuenta Cobro Masivo,API,Abono,4044680,61170,1,1,51170,1,1,1,1
+2023-04-11,CC,Sur,Créditos,Solución Recaudo,POS,Cargo,2824835,71121,0,1,51121,1,1,0,0
+2023-10-08,CC,Oriente,Servicios API,Crédito Pyme,API,Cargo,3724136,56362,1,1,36362,1,0,0,1
+2023-10-07,NIT,Sur,POS,Gateway Pagos,API,Cargo,4150692,103967,1,1,73967,1,0,0,1
+2023-01-03,NIT,Oriente,POS,Crédito Pyme,API,Comision,1934291,48357,1,1,28357,1,1,0,0
+2024-01-25,CE,Sur,Créditos,Gateway Pagos,API,Comision,3586640,71733,0,1,41733,1,1,0,1
+2023-07-04,NIT,Norte,Servicios API,Pasarela POS,POS,Abono,2102158,21022,0,1,11022,1,1,0,1
+2023-05-25,CC,Sur,Créditos,Cuenta Comercial Básica,Web,Abono,2472600,24926,0,1,4926,0,1,1,0
+2023-03-12,CE,Oriente,Créditos,Suscripción API Pagos,Web,Abono,3895897,77918,0,1,47918,0,1,1,0
+2023-09-26,CE,Centro,POS,Crédito Pyme,Web,Comision,3897269,19686,1,0,0,0,1,0,0
+2023-05-29,CC,Centro,Pagos,Gateway Pagos,Web,Comision,4683270,47333,0,1,37333,1,0,0,0
+2024-12-14,NIT,Oriente,Cuentas,Cuenta Comercial Básica,Web,Comision,2385844,47817,0,1,17817,0,0,0,1
+2024-03-03,CE,Norte,POS,Pasarela POS,API,Comision,4270926,42709,0,1,32709,1,0,0,0
+2023-04-16,CE,Occidente,Créditos,Crédito Pyme,API,Comision,3241703,64934,1,1,54934,1,1,0,1
+2024-11-30,NIT,Occidente,POS,Crédito Pyme,Web,Abono,1339537,13495,1,0,0,0,1,1,0
+2023-12-16,NIT,Sur,Pagos,TPV Virtual,POS,Comision,1089918,11099,0,1,1099,0,1,0,1
+2024-05-20,CE,Oriente,POS,Cuenta Cobro Masivo,Web,Comision,1306340,26627,0,1,16627,0,0,0,0
+2024-06-17,CE,Occidente,Servicios API,Cuenta Comercial Básica,Web,Abono,4573418,69101,0,1,59101,1,0,0,0
+2024-02-15,CC,Sur,Pagos,Solución Recaudo,API,Cargo,3533356,71167,0,1,51167,0,0,0,1
+2024-02-26,CC,Norte,Pagos,Gateway Pagos,Web,Abono,3804135,19021,0,1,9021,1,0,1,0
+2024-02-26,CE,Centro,POS,Gateway Pagos,Web,Abono,2475469,50009,0,1,40009,0,1,1,0
+2024-06-04,CC,Occidente,Servicios API,Cuenta Cobro Masivo,POS,Comision,4950393,49504,1,1,29504,1,0,0,1
+2023-08-26,CE,Norte,POS,Cuenta Comercial Básica,Web,Cargo,3917425,19687,0,0,0,1,1,0,0
+2024-11-21,CC,Oriente,Pagos,Gateway Pagos,API,Comision,187375,937,0,0,0,0,0,0,1
+2023-10-03,CC,Centro,Pagos,Gateway Pagos,API,Abono,3044284,76607,0,1,46607,1,0,1,0
+2024-02-19,NIT,Sur,Cuentas,TPV Virtual,Web,Abono,1062120,10821,0,0,0,0,1,1,0
+2023-01-17,CE,Norte,Servicios API,TPV Virtual,Web,Cargo,404887,6573,0,0,0,0,1,0,1
+2024-07-09,CC,Sur,Créditos,Solución Recaudo,Web,Cargo,4848314,121408,0,1,111408,1,0,0,1
+2024-02-23,CC,Oriente,Pagos,Solución Recaudo,POS,Cargo,2358673,23787,0,1,3787,1,0,0,0
+2024-12-23,CE,Sur,Créditos,Suscripción API Pagos,API,Abono,2865278,57806,1,1,47806,0,0,0,1
+2024-03-25,CE,Norte,POS,Suscripción API Pagos,API,Comision,2449138,61428,1,1,41428,0,0,0,0
+2024-10-05,NIT,Norte,Cuentas,Cuenta Cobro Masivo,Web,Abono,2199282,43986,0,1,23986,1,0,1,0
+2023-06-27,NIT,Norte,POS,Cuenta Comercial Básica,Web,Comision,2442436,24524,1,1,14524,0,0,0,0
+2024-04-01,NIT,Sur,POS,Gateway Pagos,POS,Abono,4360724,109218,1,1,79218,1,0,1,0
+2023-03-02,CC,Norte,Servicios API,Crédito Pyme,API,Cargo,1211599,30790,1,1,10790,0,1,0,0
+2024-02-26,CC,Centro,Servicios API,Crédito Pyme,Web,Cargo,300590,1703,0,0,0,0,0,0,0
+2023-03-24,CC,Occidente,POS,Gateway Pagos,POS,Abono,2243938,33759,1,1,13759,0,0,1,1
+2024-12-26,NIT,Occidente,Pagos,Cuenta Comercial Básica,API,Cargo,3507217,35572,0,1,15572,1,0,0,0
+2023-06-28,CC,Sur,Créditos,Gateway Pagos,Web,Comision,2954313,73858,0,1,63858,1,1,0,0
+2023-04-16,CE,Norte,Servicios API,Crédito Pyme,API,Abono,2068685,41374,1,1,31374,1,1,1,1
+2023-10-01,CE,Norte,POS,Solución Recaudo,Web,Comision,1640014,16500,0,0,0,0,0,0,0
+2024-01-05,CE,Occidente,Servicios API,Pasarela POS,API,Comision,459408,11985,0,0,0,0,0,0,0
+2023-06-10,CE,Norte,Cuentas,Cuenta Comercial Básica,API,Comision,1572660,31553,0,1,1553,0,1,0,0
+2023-11-25,CE,Norte,Créditos,Cuenta Cobro Masivo,POS,Comision,2036928,20869,0,0,0,1,1,0,0
+2024-07-25,CC,Norte,Pagos,Crédito Pyme,Web,Comision,4586888,114772,1,1,94772,1,0,0,1
+2024-11-11,CE,Oriente,Pagos,Cuenta Comercial Básica,Web,Comision,2011140,30167,0,1,20167,0,0,0,0
+2023-01-12,NIT,Centro,Créditos,Suscripción API Pagos,Web,Cargo,3517592,17588,0,0,0,1,1,0,0
+2023-05-06,CE,Sur,Pagos,Crédito Pyme,POS,Comision,4648809,23744,0,0,0,0,0,0,0
+2024-05-03,CE,Sur,Créditos,Pasarela POS,POS,Comision,2922534,58951,0,1,48951,0,1,0,0
+2024-01-26,CE,Oriente,POS,Crédito Pyme,API,Cargo,4216886,42669,0,1,32669,0,1,0,0
+2023-08-08,NIT,Sur,POS,Pasarela POS,Web,Cargo,4753741,23769,1,1,3769,1,1,0,1
+2024-07-28,CC,Norte,Servicios API,Crédito Pyme,POS,Abono,2467629,62191,0,1,42191,1,0,1,0
+2024-11-10,NIT,Occidente,Cuentas,Pasarela POS,POS,Cargo,1868210,18682,0,0,0,0,0,0,0
+2023-10-13,CC,Sur,Pagos,Cuenta Comercial Básica,POS,Cargo,4688204,46982,0,1,16982,1,1,0,0
+2024-12-03,CE,Centro,POS,Crédito Pyme,POS,Comision,3094474,62089,0,1,32089,1,0,0,0
+2024-03-27,CE,Oriente,Servicios API,Pasarela POS,Web,Cargo,1980617,30209,0,1,10209,1,0,0,0
+2024-11-09,NIT,Occidente,Cuentas,Solución Recaudo,POS,Comision,4854171,24771,0,0,0,1,0,0,0
+2024-05-12,NIT,Oriente,Servicios API,Solución Recaudo,POS,Abono,4657044,23485,0,1,13485,1,0,1,0
+2024-09-05,CE,Sur,Servicios API,Cuenta Comercial Básica,Web,Cargo,4397515,88150,1,1,78150,1,0,0,1
+2024-01-31,CE,Sur,Créditos,Cuenta Comercial Básica,Web,Cargo,4156116,83622,0,1,53622,1,1,0,0
+2023-04-09,NIT,Oriente,Cuentas,Solución Recaudo,POS,Comision,1682384,33648,1,1,23648,0,1,0,0
+2024-10-15,CE,Norte,POS,Solución Recaudo,POS,Comision,1328892,20433,0,0,0,0,0,0,1
+2023-04-23,CE,Norte,Pagos,Cuenta Cobro Masivo,POS,Comision,2683262,13416,0,0,0,1,0,0,1
+2024-02-07,CC,Oriente,Cuentas,Pasarela POS,POS,Cargo,4170115,21351,0,1,11351,1,0,0,1
+2024-10-05,NIT,Centro,Créditos,Gateway Pagos,API,Cargo,1258862,31572,0,1,11572,1,0,0,0
+2024-07-23,CE,Oriente,Créditos,Crédito Pyme,POS,Cargo,3042807,15214,0,1,5214,0,0,0,0
+2024-08-09,NIT,Sur,Pagos,Crédito Pyme,Web,Cargo,3746556,37966,0,1,27966,1,0,0,0
+2023-09-03,CE,Oriente,Servicios API,Cuenta Comercial Básica,Web,Cargo,1153189,11732,1,0,0,0,1,0,1
+2024-03-18,CE,Norte,Servicios API,Crédito Pyme,POS,Cargo,980890,19618,0,1,9618,0,1,0,0
+2024-06-09,CE,Sur,Créditos,Gateway Pagos,API,Comision,4320053,21600,0,1,11600,1,0,0,0
+2023-06-12,CE,Centro,Créditos,Solución Recaudo,POS,Abono,2258073,56452,0,1,46452,1,0,0,1
+2023-03-29,NIT,Centro,POS,Suscripción API Pagos,API,Comision,1082722,16441,0,0,0,0,1,0,1
+2023-09-25,NIT,Oriente,Cuentas,TPV Virtual,POS,Cargo,9096,427,0,0,0,1,1,0,1
+2024-01-22,NIT,Oriente,Cuentas,Solución Recaudo,Web,Comision,2618239,52365,0,1,42365,1,0,0,0
+2024-11-01,NIT,Oriente,Cuentas,Cuenta Comercial Básica,Web,Comision,103145,2163,0,0,0,0,0,0,0
+2024-11-30,CC,Sur,Servicios API,TPV Virtual,Web,Abono,1387083,13971,1,0,0,0,0,0,1
+2023-06-28,CE,Norte,Pagos,Gateway Pagos,POS,Comision,1160293,29007,0,1,9007,1,0,0,0
+2024-05-06,CC,Norte,POS,Cuenta Comercial Básica,Web,Cargo,753559,11803,0,0,0,0,0,0,0
+2023-04-13,CC,Sur,POS,Pasarela POS,API,Abono,4550471,91509,0,1,71509,0,0,1,1
+2024-07-26,NIT,Norte,Créditos,Solución Recaudo,Web,Abono,4708770,47188,1,1,17188,1,0,1,1
+2023-08-20,NIT,Norte,Créditos,Cuenta Comercial Básica,Web,Abono,582436,3012,0,0,0,0,1,0,1
+2024-02-01,CC,Norte,Cuentas,Crédito Pyme,POS,Abono,2068369,51809,1,1,31809,1,1,1,1
+2024-06-08,CC,Sur,Servicios API,Cuenta Comercial Básica,Web,Comision,2537846,25478,0,0,0,1,0,0,1
+2023-08-12,NIT,Occidente,Servicios API,Pasarela POS,API,Cargo,3784587,75692,0,1,65692,0,1,0,1
+2024-03-24,CC,Oriente,Servicios API,Pasarela POS,API,Cargo,820653,8207,0,0,0,0,0,0,0
+2024-08-02,NIT,Sur,Pagos,Gateway Pagos,Web,Abono,452629,9153,0,0,0,0,1,0,1
+2024-06-28,CC,Centro,Pagos,Gateway Pagos,POS,Cargo,2647507,66688,0,1,36688,1,0,0,1
+2024-07-11,CE,Oriente,Servicios API,Solución Recaudo,POS,Cargo,3107539,78188,1,1,48188,1,0,0,0
+2024-06-15,CC,Sur,Servicios API,Solución Recaudo,API,Comision,2887610,72690,1,1,52690,1,1,0,0
+2024-06-23,CC,Sur,Créditos,Cuenta Cobro Masivo,Web,Abono,1488490,37412,0,1,17412,0,0,1,1
+2023-11-24,NIT,Centro,Cuentas,Suscripción API Pagos,API,Cargo,2406926,12235,0,0,0,1,1,0,0
+2024-07-01,CE,Norte,Créditos,Pasarela POS,Web,Comision,3318635,33686,1,1,23686,1,0,0,1
+2023-01-29,CE,Centro,Cuentas,Cuenta Comercial Básica,Web,Comision,2250366,23004,0,1,13004,0,1,0,0
+2023-05-08,NIT,Norte,POS,TPV Virtual,POS,Abono,1514217,8071,0,0,0,0,1,1,0
+2023-07-02,NIT,Norte,Créditos,Suscripción API Pagos,POS,Cargo,4409461,110237,0,1,80237,1,1,0,0
+2024-05-02,CE,Occidente,Servicios API,Cuenta Comercial Básica,API,Cargo,3814733,57721,0,1,47721,1,0,0,0
+2023-01-10,NIT,Norte,Créditos,Cuenta Comercial Básica,API,Cargo,630328,13107,0,1,3107,0,1,0,0
+2024-11-26,NIT,Norte,Servicios API,Cuenta Comercial Básica,API,Abono,2106100,42122,0,1,22122,1,0,1,0
+2023-11-10,NIT,Occidente,Pagos,Solución Recaudo,API,Abono,3986455,79729,0,1,69729,1,0,1,0
+2023-01-11,CC,Sur,Servicios API,Solución Recaudo,API,Comision,1559509,39488,0,1,19488,0,1,0,1
+2024-02-15,CC,Sur,POS,Pasarela POS,Web,Cargo,1529579,31092,1,1,11092,0,0,0,0
+2024-06-09,CC,Norte,Créditos,Gateway Pagos,API,Abono,1702594,34052,0,1,14052,0,0,0,0
+2024-10-10,CC,Oriente,Pagos,Gateway Pagos,POS,Cargo,1633941,8170,0,0,0,0,0,0,0
+2023-06-05,CE,Sur,Pagos,Pasarela POS,Web,Cargo,1604389,16044,1,0,0,1,1,0,0
+2024-12-06,CE,Sur,Créditos,Solución Recaudo,Web,Abono,4747020,47570,1,1,37570,0,0,1,1
+2023-03-18,CE,Occidente,Créditos,TPV Virtual,Web,Cargo,1563992,8320,0,0,0,0,1,0,1
+2023-07-14,NIT,Norte,Cuentas,Cuenta Cobro Masivo,API,Abono,3663938,18320,0,0,0,1,1,0,0
+2024-01-31,CE,Oriente,Cuentas,Pasarela POS,Web,Comision,229684,1148,0,0,0,0,0,0,0
+2024-05-05,CE,Centro,Créditos,Suscripción API Pagos,API,Cargo,1759173,17592,0,1,7592,0,0,0,0
+2024-10-18,NIT,Oriente,Servicios API,Solución Recaudo,Web,Comision,2575996,13080,0,1,3080,1,0,0,0
+2023-08-01,NIT,Centro,Pagos,TPV Virtual,API,Comision,4174637,62820,0,1,32820,0,1,0,0
+2024-08-29,CE,Oriente,Servicios API,Gateway Pagos,POS,Abono,1685739,25786,0,1,5786,1,0,0,1
+2024-02-16,NIT,Norte,Servicios API,Pasarela POS,API,Cargo,3862463,38625,0,1,28625,1,1,0,0
+2024-03-24,CC,Oriente,Servicios API,Suscripción API Pagos,POS,Comision,3992438,60087,0,1,40087,1,1,0,0
+2024-01-17,NIT,Norte,Servicios API,Cuenta Cobro Masivo,POS,Comision,4254352,42644,0,1,22644,1,1,0,0
+2024-06-23,NIT,Centro,Cuentas,Cuenta Comercial Básica,API,Abono,4145810,20729,0,0,0,0,0,0,0
+2023-09-08,NIT,Oriente,POS,Crédito Pyme,API,Comision,1903862,47597,0,1,27597,1,0,0,1
+2023-04-15,NIT,Oriente,Pagos,Gateway Pagos,POS,Comision,3885536,19628,0,0,0,0,0,0,0
+2023-01-10,CE,Sur,Créditos,Solución Recaudo,POS,Abono,7816,178,0,0,0,1,1,1,1
+2023-10-06,NIT,Oriente,Cuentas,Cuenta Comercial Básica,Web,Cargo,4289399,43394,0,1,13394,1,0,0,0
+2024-09-21,CC,Oriente,Créditos,Cuenta Comercial Básica,POS,Cargo,4701576,118039,0,1,98039,1,1,0,0
+2023-10-30,CE,Centro,Servicios API,Cuenta Comercial Básica,Web,Abono,4384193,43842,0,1,33842,0,0,0,0
+2023-01-26,CC,Sur,Servicios API,Cuenta Comercial Básica,Web,Comision,987156,9972,0,0,0,0,1,0,1
+2024-09-22,NIT,Centro,POS,Cuenta Comercial Básica,Web,Cargo,3328251,83406,1,1,63406,1,0,0,1
+2023-08-28,CE,Oriente,Pagos,Cuenta Cobro Masivo,POS,Cargo,3596985,18085,1,0,0,1,1,0,1
+2023-10-07,CE,Norte,POS,Cuenta Comercial Básica,POS,Comision,1218763,30669,0,1,669,1,1,0,0
+2024-05-08,NIT,Oriente,Cuentas,Suscripción API Pagos,API,Cargo,4404301,88186,0,1,68186,1,1,0,1
+2023-08-02,NIT,Occidente,Cuentas,Pasarela POS,Web,Comision,3587019,35870,0,1,5870,1,1,0,1
+2023-05-10,NIT,Oriente,Pagos,TPV Virtual,API,Comision,3853819,77576,1,1,67576,0,0,0,0
+2023-03-31,NIT,Norte,Créditos,Suscripción API Pagos,POS,Cargo,3821046,95726,1,1,85726,1,1,0,0
+2024-10-05,NIT,Occidente,Pagos,Crédito Pyme,POS,Abono,1067401,16111,0,0,0,1,1,1,1
+2023-09-26,CE,Occidente,Pagos,Cuenta Cobro Masivo,Web,Cargo,737562,7876,0,0,0,0,1,0,0
+2023-04-15,CC,Sur,Pagos,Suscripción API Pagos,Web,Comision,2072957,52324,0,1,42324,1,1,0,0
+2023-04-29,CC,Occidente,Pagos,Cuenta Cobro Masivo,Web,Abono,1587003,39775,1,1,19775,0,1,1,1
+2023-12-31,NIT,Oriente,Servicios API,Gateway Pagos,POS,Abono,1976954,40039,0,1,10039,0,0,1,0
+2023-08-21,CC,Sur,Servicios API,Cuenta Comercial Básica,Web,Comision,4080803,40908,1,1,10908,1,1,0,0
+2023-12-30,NIT,Norte,Créditos,Suscripción API Pagos,Web,Comision,215763,5394,1,0,0,0,0,0,1
+2023-04-24,CC,Oriente,Cuentas,Suscripción API Pagos,API,Abono,747580,7676,1,0,0,0,1,1,1
+2024-05-16,NIT,Sur,Servicios API,Cuenta Cobro Masivo,Web,Cargo,4785018,71975,0,1,61975,0,0,0,0
+2023-08-03,NIT,Occidente,Servicios API,Solución Recaudo,POS,Comision,712585,14452,0,0,0,0,0,0,1
+2024-12-27,CE,Sur,Pagos,Gateway Pagos,POS,Cargo,1271942,19179,0,0,0,1,0,0,0
+2023-04-13,CE,Occidente,POS,Suscripción API Pagos,Web,Abono,31350,814,0,0,0,0,1,1,1
+2023-06-13,NIT,Centro,Servicios API,Cuenta Cobro Masivo,Web,Comision,1521499,30430,0,1,20430,1,1,0,0
+2023-04-20,NIT,Norte,Créditos,Solución Recaudo,Web,Cargo,2009928,20199,0,0,0,1,1,0,1
+2023-05-01,CE,Oriente,Pagos,Cuenta Comercial Básica,API,Comision,3841068,19705,0,0,0,1,1,0,0
+2024-11-27,CE,Norte,Servicios API,Cuenta Cobro Masivo,POS,Comision,521296,10926,1,0,0,0,0,0,1
+2023-04-30,NIT,Norte,Pagos,Cuenta Comercial Básica,Web,Comision,2538429,38276,0,1,18276,1,1,0,0
+2024-08-14,NIT,Occidente,POS,Crédito Pyme,Web,Abono,3741093,93527,1,1,83527,1,0,1,1
+2024-08-12,NIT,Sur,Pagos,Crédito Pyme,POS,Comision,4248416,63726,0,1,43726,1,0,0,1
+2024-02-17,NIT,Centro,POS,Cuenta Comercial Básica,API,Cargo,3447157,86379,0,1,66379,1,1,0,1
+2024-09-12,CE,Sur,POS,Crédito Pyme,POS,Comision,361145,4111,0,0,0,0,1,0,0
+2024-02-02,CE,Occidente,Créditos,Cuenta Comercial Básica,API,Comision,3558285,35683,1,1,5683,1,0,0,1
+2023-03-31,CE,Oriente,Créditos,Crédito Pyme,API,Abono,2971583,44674,0,1,34674,1,1,0,0
+2024-01-12,CC,Occidente,Pagos,Gateway Pagos,API,Abono,2818440,42277,0,1,22277,1,1,1,0
+2023-11-29,CC,Sur,POS,Suscripción API Pagos,API,Abono,1480902,37123,0,1,17123,0,0,1,1
+2023-08-06,CC,Centro,Servicios API,Cuenta Comercial Básica,API,Abono,4289271,64839,1,1,44839,0,1,1,1
+2024-03-10,NIT,Sur,POS,Pasarela POS,POS,Cargo,2158898,10794,0,0,0,1,0,0,0
+2024-09-05,NIT,Sur,Servicios API,Pasarela POS,Web,Cargo,3703422,93086,0,1,63086,1,0,0,0
+2024-07-26,CC,Oriente,Pagos,Solución Recaudo,API,Comision,2677704,26777,1,0,0,1,0,0,1
+2024-03-07,CE,Norte,POS,TPV Virtual,POS,Comision,2085363,52334,0,1,32334,0,1,0,0
+2023-08-11,CC,Sur,Créditos,Solución Recaudo,API,Abono,2393278,60332,0,1,40332,1,1,1,1
+2024-09-05,CC,Oriente,Pagos,Solución Recaudo,API,Cargo,4328568,64929,0,1,54929,1,0,0,1
+2023-11-09,CE,Norte,POS,Suscripción API Pagos,POS,Comision,3423877,85797,0,1,65797,0,0,0,0
+2024-06-18,CE,Oriente,Cuentas,Gateway Pagos,POS,Abono,2337229,35558,1,1,15558,1,0,0,0
+2024-10-25,NIT,Occidente,POS,Suscripción API Pagos,API,Cargo,2482314,62158,1,1,52158,0,0,0,1
+2023-02-03,CE,Sur,Créditos,Gateway Pagos,POS,Comision,3318392,66368,0,1,36368,1,1,0,0
+2024-11-10,NIT,Oriente,POS,Gateway Pagos,API,Abono,197708,5143,0,0,0,0,0,0,0
+2024-01-24,CE,Oriente,Pagos,Cuenta Cobro Masivo,Web,Comision,3286839,66237,0,1,56237,1,0,0,0
+2023-06-25,CE,Occidente,Cuentas,Pasarela POS,API,Abono,727640,18391,0,0,0,0,0,1,0
+2024-11-24,CC,Oriente,Créditos,Crédito Pyme,API,Comision,1049014,10690,0,0,0,1,0,0,0
+2023-06-08,NIT,Oriente,Pagos,Gateway Pagos,Web,Abono,4607021,23235,0,1,3235,0,0,1,0
+2023-11-09,NIT,Centro,Créditos,Crédito Pyme,POS,Cargo,403940,6059,0,0,0,0,1,0,0
+2024-09-26,NIT,Sur,Cuentas,Pasarela POS,Web,Abono,4832414,24262,0,1,4262,1,0,0,0
+2023-07-06,NIT,Norte,Cuentas,Cuenta Cobro Masivo,Web,Abono,4207604,21538,0,1,11538,1,1,1,1
+2023-05-20,NIT,Occidente,Servicios API,Pasarela POS,Web,Abono,4839034,96781,0,1,86781,0,1,1,0
+2023-03-11,NIT,Norte,POS,Cuenta Comercial Básica,API,Cargo,1049325,10593,0,1,593,0,0,0,0
+2024-09-29,NIT,Centro,Créditos,Solución Recaudo,Web,Comision,2611745,52335,0,1,22335,1,0,0,0
+2024-08-26,CC,Sur,Créditos,TPV Virtual,API,Cargo,223236,3349,1,0,0,0,0,0,1
+2023-01-18,CE,Oriente,Pagos,Cuenta Comercial Básica,Web,Comision,3512415,18062,1,0,0,1,1,0,1
+2023-10-03,CC,Norte,Cuentas,Pasarela POS,API,Comision,3521460,53022,0,1,33022,1,1,0,1
+2023-09-18,CC,Sur,Pagos,Solución Recaudo,API,Cargo,2754204,13871,0,1,3871,0,1,0,0
+2024-04-14,CE,Norte,Créditos,Cuenta Cobro Masivo,POS,Abono,1999255,20493,0,0,0,0,0,1,0
+2024-05-26,NIT,Sur,Servicios API,TPV Virtual,API,Comision,2189079,11045,0,0,0,1,1,0,0
+2023-02-02,NIT,Occidente,POS,Suscripción API Pagos,API,Cargo,3469352,86834,0,1,76834,0,1,0,1
+2024-07-07,NIT,Sur,POS,Pasarela POS,POS,Abono,2455520,12278,0,0,0,1,0,0,0
+2024-05-21,CE,Norte,Cuentas,Gateway Pagos,POS,Comision,3158075,47471,1,1,37471,1,1,0,1
+2023-03-05,CC,Occidente,POS,Cuenta Cobro Masivo,POS,Cargo,463564,7053,0,0,0,0,1,0,0
+2023-07-27,NIT,Oriente,Servicios API,Suscripción API Pagos,Web,Cargo,3689396,36994,0,1,16994,1,1,0,0
+2023-04-03,NIT,Sur,POS,Crédito Pyme,API,Abono,4625440,46254,0,1,26254,1,1,1,0
+2023-07-28,CE,Centro,Cuentas,Cuenta Cobro Masivo,POS,Abono,2734777,14174,0,0,0,0,1,0,0
+2023-08-18,CE,Centro,Créditos,Suscripción API Pagos,API,Comision,1899851,19099,1,0,0,0,1,0,1
+2023-11-25,NIT,Centro,Cuentas,TPV Virtual,API,Abono,4869022,24345,0,1,14345,1,0,1,1
+2023-02-06,CC,Oriente,Servicios API,Pasarela POS,POS,Cargo,4790790,71962,1,1,41962,1,1,0,0
+2023-08-20,CC,Centro,POS,Suscripción API Pagos,API,Comision,3722022,18810,0,0,0,0,1,0,1
+2023-01-14,CC,Centro,Pagos,Gateway Pagos,API,Cargo,1091782,11418,0,1,1418,0,1,0,1
+2024-07-26,NIT,Norte,POS,Gateway Pagos,Web,Comision,2709015,41135,1,1,21135,1,0,0,1
+2024-12-03,CC,Sur,Créditos,Solución Recaudo,POS,Cargo,4819312,120983,1,1,100983,1,0,0,1
+2023-09-04,NIT,Sur,POS,Pasarela POS,POS,Abono,4718707,23594,0,1,3594,1,1,0,0
+2024-02-14,CC,Centro,Servicios API,TPV Virtual,API,Cargo,3533961,53009,0,1,43009,1,1,0,1
+2023-04-02,CE,Norte,Cuentas,Cuenta Comercial Básica,API,Comision,1991784,39936,0,1,9936,0,1,0,1
+2023-12-13,CC,Norte,POS,Pasarela POS,Web,Cargo,2483219,49764,0,1,39764,0,0,0,1
+2024-06-27,NIT,Occidente,Cuentas,Pasarela POS,Web,Cargo,3904681,39047,1,1,9047,1,0,0,0
+2023-10-09,CC,Sur,Pagos,Gateway Pagos,API,Comision,1654267,24814,0,1,14814,0,0,0,0
+2023-05-22,CE,Oriente,Servicios API,Crédito Pyme,POS,Comision,4445079,66676,0,1,46676,1,1,0,0
+2024-11-21,CC,Sur,Créditos,Solución Recaudo,API,Cargo,266051,6851,0,0,0,0,0,0,0
+2023-10-05,CE,Occidente,Cuentas,Gateway Pagos,POS,Abono,3869568,77891,1,1,67891,0,0,1,1
+2023-02-19,CC,Norte,POS,Suscripción API Pagos,Web,Comision,4923007,73945,0,1,43945,1,1,0,0
+2023-05-03,CE,Sur,POS,Suscripción API Pagos,POS,Abono,1816841,36537,1,1,16537,1,1,0,0
+2024-05-23,CE,Occidente,Créditos,TPV Virtual,API,Cargo,1703844,9019,0,0,0,0,1,0,0
+2024-09-21,CC,Sur,Cuentas,Cuenta Cobro Masivo,Web,Abono,2297412,23074,0,1,3074,1,0,0,0
+2024-04-02,CC,Norte,Pagos,Gateway Pagos,Web,Comision,1124756,5624,0,0,0,0,0,0,0
+2024-02-24,CC,Sur,POS,Gateway Pagos,Web,Abono,1976441,9982,1,0,0,0,1,1,1
+2023-11-11,NIT,Occidente,Servicios API,Pasarela POS,POS,Comision,4760224,95204,0,1,85204,0,1,0,1
+2024-01-26,CC,Oriente,Pagos,TPV Virtual,API,Cargo,2411456,48729,1,1,28729,0,1,0,1
+2023-05-20,CE,Occidente,Créditos,Cuenta Comercial Básica,API,Cargo,4476152,67342,0,1,57342,1,1,0,0
+2024-07-10,CC,Centro,Servicios API,Pasarela POS,API,Cargo,3414316,34143,0,1,4143,1,0,0,0
+2024-04-20,CC,Occidente,Cuentas,Suscripción API Pagos,POS,Abono,2702228,13611,0,1,3611,0,1,1,1
+2024-09-27,NIT,Occidente,Pagos,Solución Recaudo,Web,Comision,1813935,36279,1,1,26279,1,0,0,1
+2023-03-24,CE,Centro,Créditos,TPV Virtual,POS,Comision,3425055,51876,1,1,31876,0,1,0,1
+2023-11-01,CE,Norte,Cuentas,Gateway Pagos,API,Comision,5847,229,0,0,0,1,1,0,1
+2023-07-30,CE,Centro,Pagos,Cuenta Cobro Masivo,POS,Comision,1430697,7653,1,0,0,0,0,0,1
+2024-04-23,CC,Sur,Pagos,Suscripción API Pagos,POS,Cargo,4735421,118886,0,1,108886,1,0,0,1
+2023-11-06,CE,Sur,Pagos,Gateway Pagos,API,Abono,3867974,39180,0,1,19180,1,1,0,0
+2024-09-05,CE,Norte,POS,Cuenta Comercial Básica,Web,Abono,4073234,102031,0,1,72031,1,0,0,1
+2023-05-14,CE,Sur,POS,Crédito Pyme,API,Abono,453764,5038,0,0,0,0,1,0,0
+2024-02-09,CC,Occidente,Servicios API,Pasarela POS,POS,Cargo,1326823,33271,1,1,3271,0,0,0,0
+2024-05-31,CC,Sur,Pagos,Solución Recaudo,POS,Cargo,1060476,21710,0,1,1710,0,0,0,1
+2023-02-15,CC,Occidente,Pagos,Cuenta Comercial Básica,Web,Comision,223028,3845,1,0,0,0,0,0,1
+2024-06-11,NIT,Oriente,Cuentas,Suscripción API Pagos,API,Cargo,343831,6977,0,0,0,0,0,0,1
+2023-07-14,CE,Centro,Cuentas,Cuenta Cobro Masivo,Web,Comision,2059509,41690,1,1,11690,1,1,0,0
+2024-07-25,NIT,Oriente,Cuentas,Crédito Pyme,Web,Cargo,1397963,28159,0,1,18159,1,0,0,0
+2024-05-22,NIT,Oriente,Cuentas,TPV Virtual,Web,Cargo,4525672,113342,0,1,93342,1,1,0,0
+2023-06-22,NIT,Centro,Créditos,Gateway Pagos,API,Cargo,4374133,109453,0,1,89453,1,1,0,0
+2024-03-15,CE,Sur,Pagos,Gateway Pagos,Web,Cargo,4407484,66212,0,1,46212,1,1,0,0
+2023-08-11,NIT,Sur,Cuentas,Solución Recaudo,Web,Abono,4199334,21497,0,1,11497,0,1,0,0
+2023-10-15,CC,Oriente,POS,Pasarela POS,Web,Comision,4723378,47234,1,1,37234,1,1,0,0
+2024-09-14,CC,Sur,Pagos,Solución Recaudo,POS,Abono,4240012,42600,0,1,22600,1,0,0,0
+2024-05-22,CC,Norte,Servicios API,Cuenta Cobro Masivo,API,Comision,1937715,48943,1,1,18943,0,0,0,0
+2023-10-04,CE,Sur,Cuentas,Solución Recaudo,POS,Abono,4107779,82156,1,1,62156,1,1,1,1
+2023-12-15,CC,Norte,Cuentas,Crédito Pyme,API,Abono,899584,22590,0,1,2590,0,1,1,1
+2024-01-16,NIT,Sur,POS,Pasarela POS,API,Cargo,4416075,22080,1,1,2080,1,0,0,1
+2023-09-29,NIT,Sur,Créditos,Gateway Pagos,API,Cargo,2135993,53500,0,1,43500,1,1,0,0
+2024-11-28,CE,Norte,POS,Cuenta Comercial Básica,API,Abono,1808748,9144,1,0,0,0,0,1,0
+2023-11-19,NIT,Occidente,Servicios API,Solución Recaudo,API,Cargo,1656262,25044,0,1,15044,0,1,0,1
+2024-01-24,NIT,Sur,Cuentas,TPV Virtual,Web,Comision,2363718,23837,0,1,3837,0,1,0,0
+2024-05-07,CE,Centro,Créditos,Solución Recaudo,Web,Comision,3942480,98562,0,1,88562,1,0,0,1
+2023-08-21,CC,Centro,POS,Cuenta Cobro Masivo,Web,Cargo,3959325,59590,0,1,39590,1,0,0,1
+2024-05-02,CE,Occidente,Cuentas,Pasarela POS,POS,Abono,4888176,48882,0,1,28882,1,1,1,1
+2024-07-24,NIT,Centro,Cuentas,Cuenta Cobro Masivo,POS,Comision,2317155,34757,0,1,24757,0,0,0,1
+2024-11-19,CC,Centro,POS,Suscripción API Pagos,Web,Cargo,2905561,14728,1,0,0,0,0,0,0
+2023-01-12,CC,Occidente,Servicios API,Cuenta Comercial Básica,POS,Abono,2715860,54817,0,1,44817,1,1,0,0
+2024-06-17,CC,Occidente,Pagos,Cuenta Cobro Masivo,Web,Comision,442653,11166,0,0,0,0,0,0,1
+2024-08-16,CE,Oriente,Servicios API,Suscripción API Pagos,Web,Cargo,4607059,69606,1,1,59606,0,0,0,1
+2024-01-05,CE,Oriente,POS,Crédito Pyme,POS,Cargo,4799706,48497,0,1,38497,0,1,0,0
+2024-01-08,CE,Sur,POS,Cuenta Comercial Básica,Web,Abono,2497457,24975,0,1,4975,1,0,0,1
+2024-12-21,NIT,Centro,Cuentas,Suscripción API Pagos,Web,Cargo,1907720,9739,0,0,0,0,0,0,1
+2023-07-05,CE,Oriente,Servicios API,Gateway Pagos,Web,Abono,518688,10474,0,0,0,0,1,0,1
+2024-04-22,CC,Sur,Servicios API,Solución Recaudo,API,Comision,2680668,40210,0,1,20210,1,1,0,1
+2023-08-06,NIT,Centro,Cuentas,Cuenta Cobro Masivo,POS,Abono,2973046,59961,0,1,49961,1,1,0,0
+2023-12-29,NIT,Sur,Cuentas,Pasarela POS,POS,Abono,849096,17182,1,1,7182,0,0,0,1
+2024-03-27,NIT,Oriente,Servicios API,Gateway Pagos,API,Abono,2902149,14511,0,0,0,1,0,0,0
+2023-08-15,CC,Occidente,Servicios API,Pasarela POS,POS,Cargo,1571816,39295,0,1,29295,0,1,0,0
+2023-10-15,NIT,Centro,Pagos,Crédito Pyme,API,Abono,983634,24591,0,1,14591,0,1,0,1
+2023-01-22,CC,Sur,Pagos,Gateway Pagos,API,Abono,2379407,35691,0,1,25691,0,0,1,0
+2024-12-23,CE,Occidente,Créditos,Cuenta Comercial Básica,POS,Abono,145938,3848,1,0,0,0,0,1,0
+2024-09-06,NIT,Sur,Cuentas,Pasarela POS,API,Comision,4826997,96740,0,1,86740,1,0,0,0
+2024-08-15,NIT,Sur,Cuentas,TPV Virtual,POS,Comision,1025720,10457,0,0,0,0,0,0,1
+2023-08-07,CC,Oriente,Cuentas,Pasarela POS,Web,Cargo,4334490,22172,0,1,12172,1,0,0,0
+2023-09-25,NIT,Centro,Créditos,Crédito Pyme,API,Comision,4437436,110936,1,1,80936,1,0,0,0
+2024-09-13,CC,Norte,Cuentas,Cuenta Comercial Básica,Web,Abono,4845297,73179,1,1,53179,1,0,1,1
+2023-01-27,CC,Oriente,Pagos,Suscripción API Pagos,Web,Comision,701018,7210,0,0,0,0,1,0,1
+2023-11-01,NIT,Norte,Créditos,Gateway Pagos,POS,Comision,752654,4263,1,0,0,0,0,0,1
+2024-03-23,NIT,Oriente,Pagos,Gateway Pagos,API,Comision,3307256,50109,0,1,40109,1,0,0,0
+2024-05-28,NIT,Centro,Pagos,Pasarela POS,POS,Abono,3685734,55486,0,1,45486,1,0,0,0
+2023-12-27,CC,Centro,Servicios API,Gateway Pagos,POS,Abono,2235694,55892,0,1,45892,1,1,1,1
+2024-08-23,NIT,Sur,POS,Cuenta Comercial Básica,Web,Abono,2846384,57428,0,1,27428,1,0,0,1
+2023-06-07,NIT,Norte,Servicios API,Crédito Pyme,POS,Cargo,3911410,39114,0,1,29114,1,1,0,0
+2023-04-16,CE,Occidente,Créditos,Cuenta Comercial Básica,Web,Abono,4618237,46282,0,1,16282,1,1,0,0
+2024-07-27,CC,Oriente,Pagos,Solución Recaudo,POS,Cargo,1853413,19034,1,0,0,0,0,0,1
+2023-03-12,NIT,Oriente,POS,Gateway Pagos,API,Abono,1859656,46691,1,1,26691,0,1,0,1
+2024-12-25,CE,Sur,Cuentas,Cuenta Comercial Básica,API,Comision,4971420,25057,0,0,0,1,0,0,0
+2023-09-12,CC,Sur,Cuentas,Solución Recaudo,POS,Abono,1461218,7406,0,0,0,0,1,1,1
+2024-02-21,CE,Oriente,Créditos,TPV Virtual,POS,Abono,1941464,48537,0,1,38537,0,0,0,1
+2024-03-23,NIT,Sur,Cuentas,Cuenta Comercial Básica,POS,Comision,4026214,100655,1,1,80655,0,1,0,0
+2023-09-06,CE,Occidente,POS,Cuenta Comercial Básica,Web,Comision,2790428,56309,1,1,46309,1,0,0,1
+2023-02-22,CC,Occidente,Créditos,Crédito Pyme,Web,Abono,4128548,62428,0,1,42428,1,1,1,0
+2023-09-25,NIT,Occidente,Pagos,Suscripción API Pagos,POS,Cargo,4414169,22071,0,1,2071,1,1,0,0
+2023-09-13,CE,Centro,Créditos,Solución Recaudo,API,Cargo,1583678,39592,0,1,29592,1,0,0,0
+2024-02-25,CC,Centro,Servicios API,Cuenta Comercial Básica,API,Comision,4002202,40222,0,1,10222,1,0,0,1
+2024-01-06,CE,Occidente,Créditos,TPV Virtual,POS,Abono,4517926,67969,0,1,37969,1,1,1,0
+2024-09-01,NIT,Centro,Pagos,Cuenta Comercial Básica,POS,Cargo,219592,3494,1,0,0,0,0,0,1
+2024-02-16,NIT,Norte,POS,Cuenta Comercial Básica,API,Cargo,3372586,33826,0,1,23826,0,0,0,0
+2023-02-12,NIT,Centro,POS,Gateway Pagos,Web,Comision,1013845,10238,0,0,0,0,0,0,0
+2024-03-04,CE,Occidente,POS,Pasarela POS,Web,Comision,1326069,13361,0,0,0,0,0,0,0
+2024-12-28,CC,Centro,Créditos,Gateway Pagos,POS,Cargo,3820001,76400,0,1,66400,0,0,0,0
+2023-09-27,CE,Sur,Créditos,Pasarela POS,Web,Cargo,1705704,34614,0,1,24614,0,1,0,0
+2024-10-19,NIT,Norte,Pagos,Gateway Pagos,POS,Comision,1195660,29992,0,1,9992,0,0,0,0
+2024-08-25,CC,Norte,Servicios API,Solución Recaudo,POS,Abono,4640454,23702,0,0,0,1,1,1,0
+2024-08-13,CE,Norte,Cuentas,Suscripción API Pagos,POS,Cargo,2053939,10270,0,0,0,1,1,0,0
+2024-09-12,CE,Norte,POS,Cuenta Cobro Masivo,API,Cargo,4973324,25067,0,1,5067,1,0,0,0
+2023-02-20,CE,Norte,Pagos,TPV Virtual,POS,Comision,2999890,44998,1,1,34998,1,1,0,1
+2023-02-07,CE,Occidente,Cuentas,Pasarela POS,POS,Comision,3049447,45942,0,1,15942,1,1,0,1
+2024-07-18,CE,Oriente,POS,TPV Virtual,API,Comision,3333672,66773,0,1,56773,1,1,0,1
+2024-09-18,CC,Occidente,POS,TPV Virtual,API,Comision,2876405,57528,0,1,37528,0,0,0,0
+2024-01-18,CE,Oriente,Servicios API,TPV Virtual,Web,Comision,620327,12407,1,1,2407,0,0,0,0
+2024-08-15,CE,Centro,Créditos,Solución Recaudo,POS,Abono,1868235,46706,1,1,36706,1,0,0,1
+2023-03-17,CE,Occidente,Créditos,TPV Virtual,POS,Comision,704472,4022,1,0,0,0,1,0,1
+2024-09-18,NIT,Sur,Créditos,Gateway Pagos,POS,Abono,2863578,71689,0,1,61689,1,1,1,0
+2024-09-29,NIT,Occidente,POS,Gateway Pagos,API,Abono,3056867,61137,0,1,41137,0,0,0,0
+2023-04-14,CC,Sur,Pagos,Solución Recaudo,POS,Comision,807696,20292,1,1,10292,0,1,0,0
+2023-05-28,NIT,Centro,POS,Pasarela POS,Web,Comision,4629665,69945,0,1,49945,1,1,0,0
+2024-08-14,CE,Occidente,Pagos,Cuenta Cobro Masivo,API,Cargo,2438535,61463,1,1,41463,1,0,0,1
+2023-08-12,NIT,Sur,Créditos,Gateway Pagos,Web,Comision,3795330,94983,1,1,84983,1,1,0,0
+2023-06-24,CC,Centro,Servicios API,Pasarela POS,Web,Cargo,3755647,37556,0,1,7556,1,1,0,1
+2023-05-04,CE,Sur,Pagos,Cuenta Cobro Masivo,POS,Comision,4801821,120046,0,1,90046,1,1,0,0
+2024-11-15,NIT,Centro,Cuentas,Cuenta Cobro Masivo,API,Comision,569282,2846,1,0,0,0,0,0,1
+2023-10-24,NIT,Sur,Servicios API,Suscripción API Pagos,API,Abono,4168320,104308,0,1,94308,1,1,1,0
+2024-04-30,CC,Oriente,Servicios API,Pasarela POS,POS,Comision,4549734,68346,0,1,38346,1,0,0,1
+2023-07-02,NIT,Occidente,Cuentas,Cuenta Cobro Masivo,POS,Comision,4314856,21774,1,1,1774,1,0,0,1
+2024-05-12,CC,Occidente,Pagos,Crédito Pyme,Web,Abono,3240873,81522,0,1,51522,1,0,0,1
+2024-04-12,CE,Centro,Servicios API,Cuenta Cobro Masivo,Web,Comision,956655,9567,0,0,0,0,0,0,1
+2024-08-02,CC,Norte,Cuentas,Cuenta Comercial Básica,POS,Cargo,1189163,18337,0,0,0,0,0,0,0
+2023-12-11,NIT,Sur,Servicios API,Crédito Pyme,Web,Abono,549560,3248,0,0,0,0,0,1,0
+2024-09-11,CC,Oriente,Pagos,TPV Virtual,API,Abono,4216547,84831,0,1,64831,0,0,0,0
+2023-11-11,CE,Sur,POS,Gateway Pagos,API,Abono,1221597,30540,1,1,20540,1,1,1,1
+2023-09-04,CE,Oriente,Pagos,Cuenta Comercial Básica,Web,Cargo,1218028,6590,0,0,0,0,1,0,1
+2024-04-03,CE,Oriente,Pagos,Cuenta Comercial Básica,Web,Abono,2839792,42597,0,1,32597,0,0,1,0
+2023-05-13,CC,Occidente,Cuentas,Crédito Pyme,POS,Cargo,1681805,16918,0,0,0,0,1,0,0
+2024-12-10,NIT,Norte,Servicios API,Cuenta Comercial Básica,Web,Abono,3576856,53753,0,1,33753,1,0,1,1
+2024-06-29,CE,Sur,Créditos,TPV Virtual,Web,Abono,3696580,37166,0,1,27166,0,1,0,0
+2024-11-24,NIT,Centro,Cuentas,Solución Recaudo,API,Comision,3188163,79704,0,1,49704,1,0,0,0
+2023-09-15,NIT,Oriente,Cuentas,Cuenta Cobro Masivo,Web,Cargo,2293724,23437,0,0,0,0,0,0,0
+2024-06-12,NIT,Centro,Pagos,Suscripción API Pagos,API,Comision,677986,6780,0,0,0,0,0,0,0
+2023-05-08,NIT,Occidente,Servicios API,Solución Recaudo,API,Comision,4927870,74118,0,1,64118,1,1,0,1
+2024-12-13,CE,Norte,Cuentas,Cuenta Cobro Masivo,API,Abono,3883014,39330,0,1,9330,1,0,1,1
+2024-09-07,NIT,Oriente,Servicios API,Suscripción API Pagos,POS,Comision,2501556,37523,0,1,27523,1,0,0,1
+2023-04-06,CE,Occidente,Créditos,Solución Recaudo,API,Cargo,831090,4155,0,0,0,0,1,0,1
+2023-10-31,NIT,Oriente,Pagos,Crédito Pyme,POS,Cargo,2959771,29798,1,0,0,1,1,0,1
+2023-03-19,CC,Occidente,Pagos,Cuenta Cobro Masivo,API,Abono,3349204,83830,1,1,63830,1,1,1,1
+2024-02-28,CE,Sur,Créditos,Solución Recaudo,API,Cargo,3599463,36095,1,1,6095,1,0,0,1
+2023-12-22,NIT,Norte,Créditos,Cuenta Cobro Masivo,API,Comision,152269,3807,0,0,0,0,0,0,1
+2023-09-23,NIT,Oriente,Pagos,Gateway Pagos,API,Comision,1227165,18907,0,1,8907,1,0,0,0
+2024-01-08,CE,Occidente,Pagos,Gateway Pagos,POS,Comision,504279,7764,0,0,0,0,1,0,0
+2024-08-10,CE,Norte,POS,Solución Recaudo,POS,Cargo,3533601,53504,1,1,23504,1,0,0,1
+2024-11-21,CE,Occidente,Créditos,Crédito Pyme,POS,Abono,2958060,59261,0,1,49261,1,0,0,0
+2023-06-27,CC,Oriente,Pagos,Cuenta Comercial Básica,Web,Cargo,4658944,69984,0,1,39984,1,0,0,0
+2024-11-13,CC,Oriente,Cuentas,Suscripción API Pagos,Web,Cargo,1751725,26376,0,0,0,1,1,0,0
+2024-03-06,CC,Centro,Cuentas,Solución Recaudo,API,Cargo,3657313,73646,0,1,53646,0,1,0,0
+2023-01-02,CE,Norte,Pagos,Suscripción API Pagos,POS,Abono,4856282,97226,0,1,87226,1,1,0,0
+2023-08-16,CC,Sur,Cuentas,Cuenta Cobro Masivo,POS,Cargo,3061892,30719,0,1,10719,1,1,0,0
+2024-06-22,CE,Sur,Cuentas,Solución Recaudo,API,Cargo,2612711,39291,0,1,9291,1,0,0,0
+2023-12-26,CE,Oriente,Cuentas,Solución Recaudo,API,Cargo,4430061,88801,0,1,78801,1,1,0,1
+2024-10-27,CE,Centro,Cuentas,Pasarela POS,POS,Cargo,1484083,29682,0,0,0,1,1,0,1
+2024-12-07,NIT,Occidente,Servicios API,Gateway Pagos,Web,Abono,732037,3860,0,0,0,0,0,1,1
+2023-09-20,CE,Oriente,Créditos,TPV Virtual,API,Abono,2664959,66624,0,1,56624,0,0,0,0
+2024-10-01,NIT,Norte,Créditos,Suscripción API Pagos,Web,Cargo,2156369,53909,0,1,23909,1,0,0,0
+2023-01-03,NIT,Occidente,Servicios API,Gateway Pagos,Web,Comision,4513930,22770,1,1,12770,1,1,0,1
+2023-03-16,NIT,Centro,POS,Pasarela POS,Web,Abono,908962,14134,0,0,0,0,1,0,0
+2024-12-15,CE,Sur,Pagos,Cuenta Cobro Masivo,Web,Abono,2168981,54225,0,1,24225,1,0,0,0
+2024-05-25,CC,Centro,POS,Suscripción API Pagos,Web,Comision,2441516,12408,0,0,0,0,0,0,1
+2023-07-10,CC,Oriente,Servicios API,Pasarela POS,POS,Comision,747054,7471,1,0,0,0,1,0,0
+2024-03-04,NIT,Norte,Cuentas,Cuenta Cobro Masivo,POS,Cargo,614242,12285,0,0,0,0,0,0,0
+2024-03-05,NIT,Sur,POS,Cuenta Comercial Básica,POS,Comision,2945893,59418,0,1,29418,1,0,0,0
+2024-01-17,CC,Occidente,Servicios API,Gateway Pagos,API,Comision,699252,3996,1,0,0,0,0,0,0
+2024-04-24,CC,Sur,Créditos,Cuenta Cobro Masivo,POS,Comision,2337599,58940,1,1,48940,0,0,0,1
+2024-08-21,CC,Norte,Pagos,Gateway Pagos,Web,Cargo,4484292,22421,0,1,12421,1,0,0,1
+2023-06-07,CC,Centro,Servicios API,TPV Virtual,POS,Abono,4788272,95865,1,1,85865,0,1,0,1
+2024-11-03,CE,Sur,Pagos,Crédito Pyme,Web,Comision,1935986,19460,0,0,0,0,0,0,0
+2024-03-07,CC,Centro,Servicios API,Gateway Pagos,Web,Comision,2288414,11542,0,0,0,0,1,0,0
+2024-11-26,NIT,Centro,Pagos,Gateway Pagos,POS,Abono,3185072,63701,0,1,33701,1,0,1,1
+2023-04-07,NIT,Sur,POS,Cuenta Cobro Masivo,POS,Abono,642005,16050,0,1,6050,0,1,1,0
+2024-11-19,NIT,Sur,POS,Solución Recaudo,Web,Comision,1062579,10726,0,1,726,0,0,0,0
+2023-01-25,CE,Sur,Créditos,Gateway Pagos,POS,Abono,3148369,62967,0,1,32967,1,1,1,1
+2023-10-23,CC,Oriente,Cuentas,Gateway Pagos,API,Comision,1332014,26740,0,1,6740,0,1,0,0
+2023-06-11,CE,Sur,Créditos,Cuenta Cobro Masivo,API,Comision,350284,1751,0,0,0,0,1,0,0
+2024-04-18,CC,Norte,Cuentas,Crédito Pyme,API,Abono,4282018,43320,0,1,23320,0,1,1,0
+2023-08-04,CE,Norte,Cuentas,Cuenta Cobro Masivo,API,Cargo,826585,8766,0,0,0,0,0,0,0
+2023-04-19,NIT,Norte,Pagos,TPV Virtual,POS,Cargo,1711190,17112,0,1,7112,1,1,0,0
+2024-10-31,CE,Norte,Servicios API,Pasarela POS,POS,Abono,4278498,85570,0,1,55570,0,0,0,1
+2023-04-21,CC,Sur,Servicios API,Solución Recaudo,Web,Comision,4607818,69117,1,1,49117,1,1,0,0
+2023-07-08,CC,Norte,POS,TPV Virtual,POS,Abono,2066650,31500,1,1,11500,1,1,0,1
+2024-08-27,NIT,Occidente,Créditos,Suscripción API Pagos,POS,Comision,1847034,27706,1,1,7706,1,0,0,1
+2024-09-09,NIT,Occidente,Pagos,Gateway Pagos,POS,Abono,2529394,63435,1,1,53435,0,1,0,0
+2024-06-14,CC,Sur,Créditos,Solución Recaudo,API,Comision,2384144,59804,0,1,49804,1,0,0,0
+2024-07-07,CC,Sur,Créditos,TPV Virtual,POS,Abono,2081522,31223,0,1,21223,1,1,1,0
+2024-09-22,CE,Occidente,Pagos,Solución Recaudo,POS,Abono,417840,2089,0,0,0,0,1,1,1
+2024-07-11,CC,Centro,Créditos,Gateway Pagos,Web,Abono,4827815,96556,1,1,86556,0,1,0,1
+2023-04-09,CE,Occidente,Servicios API,Pasarela POS,API,Comision,3799542,76191,0,1,56191,1,1,0,1
+2023-07-11,CE,Oriente,POS,TPV Virtual,Web,Comision,3487742,69855,1,1,59855,1,1,0,1
+2023-10-29,CE,Norte,Créditos,Crédito Pyme,API,Abono,2177381,54435,0,1,34435,0,1,0,0
+2023-02-17,NIT,Norte,Pagos,Crédito Pyme,Web,Cargo,4187040,21435,1,1,1435,1,0,0,1
+2024-11-30,NIT,Norte,Créditos,Crédito Pyme,API,Comision,1732266,26084,0,1,6084,1,0,0,0
+2024-03-19,CC,Centro,POS,Pasarela POS,Web,Abono,1170076,12201,0,0,0,0,0,1,0
+2024-01-05,CC,Occidente,Servicios API,Crédito Pyme,API,Cargo,2739195,41188,0,1,21188,1,0,0,0
+2024-10-28,CC,Centro,Servicios API,TPV Virtual,Web,Abono,835823,16816,0,1,6816,0,0,0,0
+2023-04-03,NIT,Norte,Créditos,Cuenta Cobro Masivo,Web,Cargo,1514941,15249,0,0,0,0,1,0,0
+2023-10-06,CC,Oriente,POS,Pasarela POS,API,Abono,4147465,41475,0,1,31475,1,1,0,0
+2023-04-13,CC,Oriente,Pagos,TPV Virtual,API,Comision,145908,3418,1,0,0,0,1,0,1
+2023-06-06,CE,Sur,Servicios API,Solución Recaudo,Web,Cargo,3642913,91573,1,1,61573,0,1,0,1
+2024-04-14,CC,Norte,POS,Pasarela POS,POS,Cargo,4471505,89530,1,1,79530,0,1,0,1
